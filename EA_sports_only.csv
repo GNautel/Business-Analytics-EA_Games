@@ -1,0 +1,541 @@
+"","name","date","platform","publisher","developer","total","america","europe","japan","other","critic","user","platform_grouped","year","month","day","day_of_year"
+"1","2002 FIFA World Cup",2002-04-22,"PS2","EA Sports","EA Canada",0.59,0.21,0.17,0.16,0.06,7.9,NA,"PlayStation",2002,4,22,112
+"2","2002 FIFA World Cup",2002-04-22,"XB","EA Sports","EA Canada",0.19,0.14,0.04,NA,0.01,NA,NA,"Xbox",2002,4,22,112
+"3","2002 FIFA World Cup",2002-04-30,"GC","EA Sports","EA Canada",0.05,0.04,0.01,NA,0,7.4,NA,"Other",2002,4,30,120
+"4","2010 FIFA World Cup South Africa",2010-04-27,"PS3","EA Sports","EA Canada",1.23,0.3,0.64,0.07,0.22,8.2,NA,"PlayStation",2010,4,27,117
+"5","2010 FIFA World Cup South Africa",2010-04-27,"X360","EA Sports","EA Canada",0.85,0.32,0.42,0.02,0.09,8.4,NA,"Xbox",2010,4,27,117
+"6","2010 FIFA World Cup South Africa",2010-04-27,"PSP","EA Sports","EA Canada",0.47,0.09,0.23,0.03,0.12,6.8,NA,"PlayStation",2010,4,27,117
+"7","2010 FIFA World Cup South Africa",2010-04-27,"Wii","EA Sports","EA Canada",0.42,0.23,0.15,0.01,0.04,6.8,NA,"Other",2010,4,27,117
+"8","2014 FIFA World Cup Brazil",2014-04-15,"PS3","EA Sports","EA Canada",0.66,0.15,0.4,0.01,0.1,7.9,NA,"PlayStation",2014,4,15,105
+"9","2014 FIFA World Cup Brazil",2014-04-15,"X360","EA Sports","EA Canada",0.44,0.15,0.25,0,0.03,7.3,NA,"Xbox",2014,4,15,105
+"10","Andretti Racing",1996-11-30,"PS","EA Sports","Stormfront Studios",0.77,0.43,0.29,NA,0.05,7.3,NA,"PlayStation",1996,11,30,335
+"11","Arena Football",2006-02-07,"PS2","EA Sports","EA Tiburon",0.56,0.28,0.22,NA,0.07,NA,NA,"PlayStation",2006,2,7,38
+"12","Arena Football",2006-02-07,"XB","EA Sports","EA Tiburon",0.15,0.11,0.03,NA,0.01,NA,NA,"Xbox",2006,2,7,38
+"13","Championship Bass",2000-03-07,"PS","EA Sports","EA Seattle",0.32,0.18,0.12,NA,0.02,7.1,NA,"PlayStation",2000,3,7,67
+"14","EA Sports Active NFL Training Camp",2010-11-16,"Wii","EA Sports","EA Vancouver",0.82,0.76,NA,NA,0.05,NA,NA,"Other",2010,11,16,320
+"15","EA Sports Active: More Workouts",2009-11-17,"Wii","EA Sports","EA Vancouver",1.16,0.78,0.28,NA,0.1,7.9,NA,"Other",2009,11,17,321
+"16","EA Sports Grand Slam Tennis",2009-06-08,"Wii","EA Sports","EA Vancouver",0.92,0.28,0.51,0.02,0.11,7.9,NA,"Other",2009,6,8,159
+"17","EA Sports MMA",2010-10-19,"PS3","EA Sports","EA Tiburon",0.37,0.16,0.14,0.01,0.06,7.6,NA,"PlayStation",2010,10,19,292
+"18","EA Sports MMA",2010-10-19,"X360","EA Sports","EA Tiburon",0.35,0.23,0.09,NA,0.03,7.7,NA,"Xbox",2010,10,19,292
+"19","EA Sports UFC 2",2016-03-15,"PS4","EA Sports","EA Canada",1.31,0.44,0.65,NA,0.21,NA,NA,"PlayStation",2016,3,15,75
+"20","EA Sports UFC 2",2016-03-15,"XOne","EA Sports","EA Canada",0.61,0.36,0.19,NA,0.06,NA,NA,"Xbox",2016,3,15,75
+"21","EA Sports UFC 3",2018-02-02,"PS4","EA Sports","EA Vancouver",0.97,0.4,0.41,0.01,0.16,NA,NA,"PlayStation",2018,2,2,33
+"22","EA Sports UFC 3",2018-02-02,"XOne","EA Sports","EA Vancouver",0.44,0.3,0.1,NA,0.04,NA,NA,"Xbox",2018,2,2,33
+"23","F1 2000",2000-02-29,"PS","EA Sports","Visual Sciences",0.25,0.14,0.09,NA,0.02,NA,NA,"PlayStation",2000,2,29,60
+"24","F1 2001",2001-10-01,"PS2","EA Sports","Electronic Arts UK",0.15,0.07,0.06,NA,0.02,NA,NA,"PlayStation",2001,10,1,274
+"25","F1 2001",2001-11-18,"XB","EA Sports","Electronic Arts UK",0.06,0.05,0.01,NA,0,NA,NA,"Xbox",2001,11,18,322
+"26","F1 2002",2002-06-17,"PS2","EA Sports","Visual Sciences Ltd.",0.12,0.05,0.04,0.02,0.01,NA,NA,"PlayStation",2002,6,17,168
+"27","F1 2002",2002-06-22,"GC","EA Sports","Visual Sciences Ltd.",0.03,0.02,0.01,NA,0,NA,NA,"Other",2002,6,22,173
+"28","F1 2002",2002-06-13,"PC","EA Sports","Image Space Inc.",0,NA,0,NA,0,NA,NA,"PC",2002,6,13,164
+"29","F1 Career Challenge",2003-06-24,"PS2","EA Sports","Visual Science",0.1,0.05,0.04,NA,0.01,NA,NA,"PlayStation",2003,6,24,175
+"30","F1 Championship Season 2000",2000-12-19,"PS2","EA Sports","Visual Science",0.03,NA,NA,0.03,NA,NA,NA,"PlayStation",2000,12,19,354
+"31","FIFA 06 Soccer",2005-10-04,"GC","EA Sports","EA Canada",0.14,0.11,0.03,NA,0,NA,NA,"Other",2005,10,4,277
+"32","FIFA 06: Road to FIFA World Cup",2005-11-16,"X360","EA Sports","EA Canada",0.15,0.11,0.02,0.01,0.01,6.1,NA,"Xbox",2005,11,16,320
+"33","FIFA 07 Soccer",2006-10-03,"PS2","EA Sports","Team Fusion",4.11,0.71,2.48,0.03,0.89,8.4,NA,"PlayStation",2006,10,3,276
+"34","FIFA 07 Soccer",2006-10-17,"PSP","EA Sports","EA Canada",1.21,0.25,0.64,NA,0.32,8,NA,"PlayStation",2006,10,17,290
+"35","FIFA 07 Soccer",2006-10-03,"XB","EA Sports","EA Canada",0.54,0.16,0.35,NA,0.04,8.1,NA,"Xbox",2006,10,3,276
+"36","FIFA 07 Soccer",2006-11-01,"X360","EA Sports","EA Canada",0.28,0.24,0.01,NA,0.02,7.1,NA,"Xbox",2006,11,1,305
+"37","FIFA 07 Soccer",2006-10-03,"GC","EA Sports","EA Canada",0.18,0.14,0.04,NA,0,8.3,7.6,"Other",2006,10,3,276
+"38","FIFA 07 Soccer",2006-10-03,"DS","EA Sports","EA Canada",0.06,0.05,0.01,NA,0,7.5,NA,"Other",2006,10,3,276
+"39","FIFA 07 Soccer",2006-10-03,"PC","EA Sports","EA Canada",0,NA,0,NA,0,8.4,NA,"PC",2006,10,3,276
+"40","FIFA 13",2012-09-25,"PS3","EA Sports","EA Canada",8.01,1.07,5.13,0.13,1.68,NA,NA,"PlayStation",2012,9,25,269
+"41","FIFA 13",2012-09-25,"X360","EA Sports","EA Canada",5.11,1.1,3.49,0.03,0.5,NA,NA,"Xbox",2012,9,25,269
+"42","FIFA 13",2012-09-25,"Wii","EA Sports","EA Canada",0.69,0.18,0.46,NA,0.06,NA,NA,"Other",2012,9,25,269
+"43","FIFA 13",2012-11-18,"WiiU","EA Sports","EA Canada",0.49,0.18,0.28,NA,0.04,7,NA,"Other",2012,11,18,323
+"44","FIFA 13",2012-09-25,"PSP","EA Sports","EA Canada",0.38,0.06,0.22,0.02,0.08,NA,NA,"PlayStation",2012,9,25,269
+"45","FIFA 13",2012-09-25,"PC","EA Sports","EA Canada",0.38,0.02,0.32,NA,0.04,NA,NA,"PC",2012,9,25,269
+"46","FIFA 13",2012-09-25,"3DS","EA Sports","EA Canada",0.3,0.06,0.21,NA,0.02,NA,NA,"Other",2012,9,25,269
+"47","FIFA 14",2013-09-24,"PS3","EA Sports","EA Canada",6.61,0.79,4.77,0.07,0.98,NA,NA,"PlayStation",2013,9,24,267
+"48","FIFA 14",2013-09-24,"X360","EA Sports","EA Canada",4.15,0.94,2.92,0.01,0.29,NA,NA,"Xbox",2013,9,24,267
+"49","FIFA 14",2013-11-15,"PS4","EA Sports","EA Canada",3.43,0.62,2.18,0.12,0.51,NA,NA,"PlayStation",2013,11,15,319
+"50","FIFA 14",2013-11-22,"XOne","EA Sports","EA Canada",1.31,0.44,0.78,NA,0.1,NA,NA,"Xbox",2013,11,22,326
+"51","FIFA 14",2013-09-24,"PSV","EA Sports","EA Canada",0.5,0.08,0.3,0.01,0.11,NA,NA,"PlayStation",2013,9,24,267
+"52","FIFA 14",2013-09-24,"Wii","EA Sports","EA Canada",0.42,NA,0.4,NA,0.02,NA,NA,"Other",2013,9,24,267
+"53","FIFA 14",2013-09-24,"PC","EA Sports","EA Canada",0.38,0.01,0.35,NA,0.02,NA,NA,"PC",2013,9,24,267
+"54","FIFA 14",2013-09-24,"3DS","EA Sports","EA Canada",0.26,NA,0.25,NA,0.01,NA,NA,"Other",2013,9,24,267
+"55","FIFA 14",2013-09-24,"PSP","EA Sports","EA Canada",0.25,NA,0.19,NA,0.05,NA,NA,"PlayStation",2013,9,24,267
+"56","FIFA 15",2014-09-23,"PS4","EA Sports","EA Canada",6.32,0.83,4.49,0.05,0.94,8.1,NA,"PlayStation",2014,9,23,266
+"57","FIFA 15",2014-09-23,"PS3","EA Sports","EA Canada",4.56,0.59,3.25,0.04,0.68,6.9,NA,"PlayStation",2014,9,23,266
+"58","FIFA 15",2014-09-23,"X360","EA Sports","EA Canada",2.91,0.8,1.9,NA,0.21,6.9,NA,"Xbox",2014,9,23,266
+"59","FIFA 15",2014-09-23,"XOne","EA Sports","EA Canada",2.19,0.64,1.39,NA,0.16,7.9,NA,"Xbox",2014,9,23,266
+"60","FIFA 15",2014-09-23,"PSV","EA Sports","EA Canada",0.66,0.09,0.38,0.06,0.13,NA,NA,"PlayStation",2014,9,23,266
+"61","FIFA 15",2014-09-23,"Wii","EA Sports","EA Canada",0.57,0.15,0.37,NA,0.04,NA,NA,"Other",2014,9,23,266
+"62","FIFA 15",2014-09-23,"3DS","EA Sports","EA Canada",0.52,0.09,0.39,NA,0.03,NA,NA,"Other",2014,9,23,266
+"63","FIFA 15",2014-09-23,"PC","EA Sports","EA Canada",0.3,NA,0.28,NA,0.02,7,NA,"PC",2014,9,23,266
+"64","FIFA 16",2015-09-22,"PS4","EA Sports","EA Canada",8.22,1.15,5.77,0.07,1.23,8.5,NA,"PlayStation",2015,9,22,265
+"65","FIFA 16",2015-09-22,"XOne","EA Sports","EA Canada",3.25,0.92,2.1,NA,0.24,8.5,NA,"Xbox",2015,9,22,265
+"66","FIFA 16",2015-09-22,"PS3","EA Sports","EA Canada",2.55,0.43,1.68,0.05,0.38,9,NA,"PlayStation",2015,9,22,265
+"67","FIFA 16",2015-09-22,"X360","EA Sports","EA Canada",1.59,0.59,0.88,NA,0.12,9,NA,"Xbox",2015,9,22,265
+"68","FIFA 16",2015-09-22,"PC","EA Sports","EA Canada",0.21,0.07,0.13,NA,0.02,8.5,NA,"PC",2015,9,22,265
+"69","FIFA 18",2017-09-29,"PS4","EA Sports","EA Vancouver",11.8,1.27,8.64,0.15,1.73,8.3,NA,"PlayStation",2017,9,29,272
+"70","FIFA 18",2017-09-29,"XOne","EA Sports","EA Vancouver",3.14,0.98,1.92,NA,0.23,8,NA,"Xbox",2017,9,29,272
+"71","FIFA 18",2017-09-29,"NS","EA Sports","EA Vancouver",1.1,0.35,0.55,0.13,0.07,5.8,9.1,"Other",2017,9,29,272
+"72","FIFA 18",2017-09-29,"PS3","EA Sports","EA Vancouver",0.54,0.06,0.4,0.01,0.08,NA,NA,"PlayStation",2017,9,29,272
+"73","FIFA 18",2017-09-29,"X360","EA Sports","EA Vancouver",0.26,0.05,0.19,NA,0.02,NA,NA,"Xbox",2017,9,29,272
+"74","FIFA 18",2017-09-29,"PC","EA Sports","EA Vancouver",0.08,NA,0.08,NA,0,8,NA,"PC",2017,9,29,272
+"75","FIFA 2000",1999-10-09,"PS","EA Sports","EA Canada",1.87,0.22,1.47,0.04,0.14,8.8,NA,"PlayStation",1999,10,9,282
+"76","FIFA 2000: Major League Soccer",1999-09-30,"PC","EA Sports","EA Canada",0,NA,0,NA,0,NA,NA,"PC",1999,9,30,273
+"77","FIFA 2001 Major League Soccer",2000-11-14,"PS","EA Sports","EA Canada",0.32,0.18,0.12,NA,0.02,NA,NA,"PlayStation",2000,11,14,319
+"78","FIFA 2001: Major League Soccer",2000-11-24,"PS2","EA Sports","EA Canada",0.09,NA,NA,0.09,NA,NA,NA,"PlayStation",2000,11,24,329
+"79","FIFA 99",1998-11-30,"N64","EA Sports","EA Canada",0.54,0.11,0.39,NA,0.03,NA,NA,"Other",1998,11,30,334
+"80","FIFA Football",2011-09-27,"PSV","EA Sports","EA Canada",0.12,0.02,0.09,NA,0.02,NA,NA,"PlayStation",2011,9,27,270
+"81","FIFA Manager 08",2007-11-02,"PC","EA Sports","Bright Future GmbH",0,NA,0,NA,0,NA,NA,"PC",2007,11,2,306
+"82","FIFA Soccer",2012-02-15,"PSV","EA Sports","EA Canada",0.63,0.16,0.35,0.02,0.09,NA,NA,"PlayStation",2012,2,15,46
+"83","FIFA Soccer 06",2005-10-04,"PS2","EA Sports","EA Canada",4.21,0.78,2.55,0.04,0.84,8.4,NA,"PlayStation",2005,10,4,277
+"84","FIFA Soccer 06",2005-10-04,"XB","EA Sports","EA Canada",0.68,0.29,0.38,NA,0.01,NA,NA,"Xbox",2005,10,4,277
+"85","FIFA Soccer 06",2005-10-11,"PSP","EA Sports","EA Canada",0.11,0.1,0.01,NA,0.01,7.6,NA,"PlayStation",2005,10,11,284
+"86","FIFA Soccer 06",2005-10-11,"GBA","EA Sports","Exient Entertainment",0.07,0.05,0.02,NA,0,NA,NA,"Other",2005,10,11,284
+"87","FIFA Soccer 06",2005-10-04,"DS","EA Sports","Exient Entertainment",0.06,0.05,0,NA,0,NA,NA,"Other",2005,10,4,277
+"88","FIFA Soccer 06",2005-10-04,"PC","EA Sports","EA Canada",0,NA,0,NA,0,NA,NA,"PC",2005,10,4,277
+"89","FIFA Soccer 08",2007-10-09,"PS2","EA Sports","EA Canada",3.14,0.68,0,NA,2.46,NA,NA,"PlayStation",2007,10,9,282
+"90","FIFA Soccer 08",2007-10-09,"PS3","EA Sports","EA Canada",1.75,0.35,1.07,0.02,0.31,8.5,NA,"PlayStation",2007,10,9,282
+"91","FIFA Soccer 08",2007-10-08,"PSP","EA Sports","EA Canada",1.35,0.2,0.76,NA,0.39,7.9,NA,"PlayStation",2007,10,8,281
+"92","FIFA Soccer 08",2007-10-09,"X360","EA Sports","EA Canada",1.35,0.31,0.89,0.01,0.14,NA,NA,"Xbox",2007,10,9,282
+"93","FIFA Soccer 08",2007-10-09,"Wii","EA Sports","EA Canada",1.03,0.32,0.59,0.01,0.12,NA,NA,"Other",2007,10,9,282
+"94","FIFA Soccer 08",2007-10-09,"DS","EA Sports","EA Canada",0.85,0.1,0.65,NA,0.11,NA,NA,"Other",2007,10,9,282
+"95","FIFA Soccer 08",2007-10-09,"PC","EA Sports","EA Canada",0.02,NA,0.01,NA,0,NA,NA,"PC",2007,10,9,282
+"96","FIFA Soccer 09",2008-10-14,"PSP","EA Sports","EA Canada",1.35,0.23,0.73,0.02,0.37,8.1,NA,"PlayStation",2008,10,14,288
+"97","FIFA Soccer 10",2009-10-20,"PS3","EA Sports","EA Canada",3.63,0.6,2.46,0.05,0.52,9,NA,"PlayStation",2009,10,20,293
+"98","FIFA Soccer 10",2009-10-20,"X360","EA Sports","EA Canada",2.62,0.6,1.79,0.01,0.23,8.9,NA,"Xbox",2009,10,20,293
+"99","FIFA Soccer 10",2009-10-20,"PS2","EA Sports","EA Canada",1.7,0.23,0.24,0,1.23,NA,NA,"PlayStation",2009,10,20,293
+"100","FIFA Soccer 10",2009-10-20,"PSP","EA Sports","EA Canada",1.16,0.16,0.68,0.01,0.31,7.9,NA,"PlayStation",2009,10,20,293
+"101","FIFA Soccer 10",2009-10-20,"Wii","EA Sports","EA Canada",0.98,0.23,0.64,NA,0.11,8.3,NA,"Other",2009,10,20,293
+"102","FIFA Soccer 10",2009-10-20,"DS","EA Sports","Exient Entertainment",0.58,0.14,0.37,NA,0.07,NA,NA,"Other",2009,10,20,293
+"103","FIFA Soccer 10",2009-10-02,"PC","EA Sports","EA Canada",0.05,NA,0.04,NA,0.01,NA,NA,"PC",2009,10,2,275
+"104","FIFA Soccer 11",2010-09-28,"PS3","EA Sports","EA Canada",5.08,0.61,3.28,0.06,1.12,8.7,NA,"PlayStation",2010,9,28,271
+"105","FIFA Soccer 11",2010-09-28,"X360","EA Sports","EA Canada",3.52,0.71,2.39,0.02,0.4,8.7,NA,"Xbox",2010,9,28,271
+"106","FIFA Soccer 11",2010-09-28,"PSP","EA Sports","HB Studios",1.21,0.13,0.7,0.01,0.36,7,NA,"PlayStation",2010,9,28,271
+"107","FIFA Soccer 11",2010-09-28,"Wii","EA Sports","EA Canada",1.08,0.26,0.69,NA,0.12,7,NA,"Other",2010,9,28,271
+"108","FIFA Soccer 11",2010-09-28,"PS2","EA Sports","EA Canada",0.76,0.11,0.29,NA,0.36,NA,NA,"PlayStation",2010,9,28,271
+"109","FIFA Soccer 11",2010-09-28,"DS","EA Sports","Exient Entertainment",0.7,0.13,0.49,NA,0.08,7,NA,"Other",2010,9,28,271
+"110","FIFA Soccer 11",2010-09-28,"PC","EA Sports","HB Studios",0.18,NA,0.15,NA,0.03,8.4,NA,"PC",2010,9,28,271
+"111","FIFA Soccer 12",2011-09-27,"PS3","EA Sports","EA Canada",6.65,0.84,4.33,0.11,1.37,9.2,NA,"PlayStation",2011,9,27,270
+"112","FIFA Soccer 12",2011-09-27,"X360","EA Sports","EA Canada",4.18,0.85,2.79,0.02,0.52,9.2,NA,"Xbox",2011,9,27,270
+"113","FIFA Soccer 12",2011-09-27,"Wii","EA Sports","EA Canada",0.76,0.15,0.51,NA,0.1,NA,NA,"Other",2011,9,27,270
+"114","FIFA Soccer 12",2011-09-27,"PSP","EA Sports","EA Canada",0.53,0.12,0.26,0.02,0.13,NA,NA,"PlayStation",2011,9,27,270
+"115","FIFA Soccer 12",2011-09-27,"PC","EA Sports","EA Canada",0.46,0.04,0.33,NA,0.09,9.1,NA,"PC",2011,9,27,270
+"116","FIFA Soccer 12",2011-09-27,"3DS","EA Sports","EA Canada",0.39,0.08,0.27,NA,0.04,7,NA,"Other",2011,9,27,270
+"117","FIFA Soccer 12",2011-09-27,"PS2","EA Sports","EA Canada",0.09,NA,0.02,NA,0.06,NA,NA,"PlayStation",2011,9,27,270
+"118","FIFA Soccer 13",2012-09-25,"PSV","EA Sports","EA Canada",0.46,NA,0.32,0.05,0.1,NA,NA,"PlayStation",2012,9,25,269
+"119","FIFA Soccer 2002",2001-11-01,"PS2","EA Sports","EA Canada",0.63,0.31,0.24,NA,0.08,NA,NA,"PlayStation",2001,11,1,305
+"120","FIFA Soccer 2002",2001-11-21,"GC","EA Sports","EA Canada",0.18,0.14,0.04,NA,0,NA,NA,"Other",2001,11,21,325
+"121","FIFA Soccer 2002",2001-11-01,"PS","EA Sports","EA Canada",0.15,0.08,0.06,NA,0.01,NA,NA,"PlayStation",2001,11,1,305
+"122","FIFA Soccer 2003",2002-11-14,"PS2","EA Sports","EA Canada",3.4,0.46,2.28,0.05,0.61,NA,NA,"PlayStation",2002,11,14,318
+"123","FIFA Soccer 2003",2002-11-12,"XB","EA Sports","EA Canada",0.63,0.2,0.4,NA,0.04,NA,NA,"Xbox",2002,11,12,316
+"124","FIFA Soccer 2003",2002-11-14,"GC","EA Sports","EA Canada",0.08,0.06,0.02,NA,0,NA,NA,"Other",2002,11,14,318
+"125","FIFA Soccer 2003",2002-11-19,"GBA","EA Sports","Exient Entertainment",0.05,0.04,0.01,NA,0,6.9,NA,"Other",2002,11,19,323
+"126","FIFA Soccer 2003 (weekly jp sales)",2002-11-14,"PS2","EA Sports","EA Canada",0.04,NA,NA,0.04,NA,NA,NA,"PlayStation",2002,11,14,318
+"127","FIFA Soccer 2004",2003-11-04,"PS2","EA Sports","EA Canada",3.49,0.59,2.36,0.04,0.51,8,NA,"PlayStation",2003,11,4,308
+"128","FIFA Soccer 2004",2003-11-04,"XB","EA Sports","EA Canada",0.79,0.24,0.49,NA,0.05,NA,NA,"Xbox",2003,11,4,308
+"129","FIFA Soccer 2004",2003-11-04,"GC","EA Sports","EA Canada",0.07,0.05,0.01,NA,0,8.2,NA,"Other",2003,11,4,308
+"130","FIFA Soccer 2004",2003-11-04,"GBA","EA Sports","Exient Entertainment",0.05,0.04,0.01,NA,0,8.5,NA,"Other",2003,11,4,308
+"131","FIFA Soccer 2005",2004-10-12,"PS2","EA Sports","EA Canada",3.7,0.58,2.48,0.04,0.59,8.4,NA,"PlayStation",2004,10,12,286
+"132","FIFA Soccer 2005",2004-10-12,"XB","EA Sports","EA Canada",0.97,0.33,0.6,NA,0.04,NA,NA,"Xbox",2004,10,12,286
+"133","FIFA Soccer 2005",2004-10-09,"GC","EA Sports","EA Canada",0.14,0.11,0.03,NA,0,NA,NA,"Other",2004,10,9,283
+"134","FIFA Soccer 2005",2004-10-12,"GBA","EA Sports","EA Canada",0.08,0.06,0.02,NA,0,8.1,NA,"Other",2004,10,12,286
+"135","FIFA Soccer 2005",2004-10-12,"PC","EA Sports","EA Canada",0,NA,0,NA,0,NA,NA,"PC",2004,10,12,286
+"136","FIFA Soccer 64",1997-02-28,"N64","EA Sports","EA Canada",0.49,0.16,0.3,NA,0.03,NA,NA,"Other",1997,2,28,59
+"137","FIFA Soccer 96",1995-11-01,"PS","EA Sports","Extended Play Productions",0.16,0.09,0.06,NA,0.01,NA,NA,"PlayStation",1995,11,1,305
+"138","FIFA Soccer 97",1996-11-30,"PS","EA Sports","EA Canada",0.16,0.09,0.06,NA,0.01,NA,NA,"PlayStation",1996,11,30,335
+"139","FIFA Soccer World Championship",2000-05-25,"PS2","EA Sports","EA Sports",0.83,0.27,0.21,0.28,0.07,NA,NA,"PlayStation",2000,5,25,146
+"140","FIFA Street (2012)",2012-03-13,"PS3","EA Sports","EA Canada",1.25,0.13,0.91,NA,0.21,NA,NA,"PlayStation",2012,3,13,73
+"141","FIFA Street (2012)",2012-03-13,"X360","EA Sports","EA Canada",0.93,0.21,0.63,NA,0.1,NA,NA,"Xbox",2012,3,13,73
+"142","FIFA World Cup Germany 2006",2006-04-24,"PS2","EA Sports","EA Canada",0.57,0.47,0.02,NA,0.08,7.9,NA,"PlayStation",2006,4,24,114
+"143","FIFA World Cup Germany 2006",2006-04-24,"X360","EA Sports","EA Canada",0.48,0.19,0.27,0.01,NA,7.8,NA,"Xbox",2006,4,24,114
+"144","FIFA World Cup Germany 2006",2006-04-24,"XB","EA Sports","EA Canada",0.24,0.18,0.05,NA,0.01,7.8,NA,"Xbox",2006,4,24,114
+"145","FIFA World Cup Germany 2006",2006-04-24,"GC","EA Sports","EA Canada",0.13,0.1,0.03,NA,0,7.7,NA,"Other",2006,4,24,114
+"146","FIFA World Cup Germany 2006",2006-05-22,"PSP","EA Sports","EA Canada",0.11,0.1,NA,NA,0.01,6.5,NA,"PlayStation",2006,5,22,142
+"147","FIFA World Cup Germany 2006",2006-04-24,"DS","EA Sports","EA Canada",0.04,0.03,0,NA,0,7.3,NA,"Other",2006,4,24,114
+"148","FIFA World Cup: Germany 2006",2006-04-24,"GBA","EA Sports","EA Canada",0.03,0.02,0.01,NA,0,4.3,NA,"Other",2006,4,24,114
+"149","FIFA: Road to  World Cup 98",1997-11-30,"N64","EA Sports","EA Canada",0.58,0.15,0.39,NA,0.03,NA,NA,"Other",1997,11,30,334
+"150","FIFA: Road to World Cup 98",1997-12-01,"PS","EA Sports","EA Canada",0.73,0.14,0.09,0.46,0.05,NA,NA,"PlayStation",1997,12,1,335
+"151","FaceBreaker",2008-09-03,"X360","EA Sports","EA Canada",0.19,0.15,0.02,NA,0.01,NA,NA,"Xbox",2008,9,3,247
+"152","FaceBreaker",2008-09-03,"PS3","EA Sports","EA Canada",0.17,0.13,0.03,NA,0.02,NA,NA,"PlayStation",2008,9,3,247
+"153","Fight Night 2004",2004-04-05,"PS2","EA Sports","EA Canada",1.48,1.08,0.2,NA,0.2,NA,NA,"PlayStation",2004,4,5,96
+"154","Fight Night 2004",2004-04-05,"XB","EA Sports","EA Canada",0.68,0.51,0.15,NA,0.02,NA,NA,"Xbox",2004,4,5,96
+"155","Fight Night Champion",2011-03-01,"PS3","EA Sports","EA Canada",1.13,0.45,0.5,NA,0.18,8.4,NA,"PlayStation",2011,3,1,60
+"156","Fight Night Champion",2011-03-01,"X360","EA Sports","EA Canada",0.78,0.4,0.31,NA,0.07,8.4,NA,"Xbox",2011,3,1,60
+"157","Fight Night Round 2",2005-02-28,"PS2","EA Sports","EA Sports",0.87,0.72,0.03,NA,0.12,NA,NA,"PlayStation",2005,2,28,59
+"158","Fight Night Round 2",2005-02-28,"XB","EA Sports","EA Sports",0.6,0.42,0.16,NA,0.02,NA,NA,"Xbox",2005,2,28,59
+"159","Fight Night Round 2",2005-02-28,"GC","EA Sports","EA Sports",0.17,0.13,0.03,NA,0,NA,NA,"Other",2005,2,28,59
+"160","Fight Night Round 2004",2004-04-05,"XB","EA Sports","EA Sports",0.67,0.46,0.18,NA,0.03,NA,NA,"Xbox",2004,4,5,96
+"161","Fight Night Round 3",2006-12-05,"PS3","EA Sports","EA Chicago",1.67,0.81,0.58,0.01,0.26,NA,NA,"PlayStation",2006,12,5,339
+"162","Fight Night Round 3",2006-02-20,"PS2","EA Sports","EA Chicago",1.56,1.07,0.4,NA,0.1,NA,NA,"PlayStation",2006,2,20,51
+"163","Fight Night Round 3",2006-02-20,"X360","EA Sports","EA Chicago",1.47,1.33,0.03,0.01,0.1,8.6,NA,"Xbox",2006,2,20,51
+"164","Fight Night Round 3",2006-02-20,"PSP","EA Sports","EA Chicago",0.52,0.46,0.02,NA,0.04,7.2,NA,"PlayStation",2006,2,20,51
+"165","Fight Night Round 3",2006-02-23,"XB","EA Sports","EA Chicago",0.33,0.26,0.06,NA,0.01,NA,NA,"Xbox",2006,2,23,54
+"166","Fight Night Round 4",2009-06-23,"PS3","EA Sports","EA Canada",1.52,0.92,0.4,NA,0.2,8.6,NA,"PlayStation",2009,6,23,174
+"167","Fight Night Round 4",2009-06-23,"X360","EA Sports","EA Canada",1.4,0.95,0.33,NA,0.13,8.7,NA,"Xbox",2009,6,23,174
+"168","Football Academy",2009-03-20,"DS","EA Sports","Electronic Arts",0.02,NA,0.01,NA,0,NA,NA,"Other",2009,3,20,79
+"169","Grand Slam Tennis 2",2012-02-14,"PS3","EA Sports","EA Sports",0.24,0.09,0.1,NA,0.04,NA,NA,"PlayStation",2012,2,14,45
+"170","Grand Slam Tennis 2",2012-02-14,"X360","EA Sports","EA Sports",0.18,0.1,0.06,NA,0.02,NA,NA,"Xbox",2012,2,14,45
+"171","Knockout Kings",1998-10-31,"PS","EA Sports","Press Start Inc.",1.52,1.07,0.39,NA,0.06,NA,NA,"PlayStation",1998,10,31,304
+"172","Knockout Kings 2000",1999-10-31,"PS","EA Sports","EA Sports",1.41,1.02,0.34,NA,0.05,NA,NA,"PlayStation",1999,10,31,304
+"173","Knockout Kings 2000",1999-10-03,"N64","EA Sports","Black Ops Entertainment",0.92,0.63,0.27,NA,0.02,NA,NA,"Other",1999,10,3,276
+"174","Knockout Kings 2001",2001-02-05,"PS2","EA Sports","Black Ops Entertainment",0.56,0.28,0.21,NA,0.07,NA,NA,"PlayStation",2001,2,5,36
+"175","Knockout Kings 2001",2000-10-30,"PS","EA Sports","EA Sports",0.41,0.23,0.15,NA,0.03,NA,NA,"PlayStation",2000,10,30,304
+"176","Knockout Kings 2002",2002-03-04,"PS2","EA Sports","Black Ops Entertainment",0.91,0.45,0.35,NA,0.12,NA,NA,"PlayStation",2002,3,4,63
+"177","Knockout Kings 2002",2002-03-04,"XB","EA Sports","Black Ops Entertainment",0.27,0.2,0.06,NA,0.01,NA,NA,"Xbox",2002,3,4,63
+"178","Knockout Kings 2003",2002-10-09,"GC","EA Sports","NEW Corporation",0.15,0.12,0.03,NA,0,NA,NA,"Other",2002,10,9,282
+"179","MVP 06 NCAA Baseball",2006-01-18,"PS2","EA Sports","EA Canada",0.75,0.62,0.02,NA,0.1,NA,NA,"PlayStation",2006,1,18,18
+"180","MVP 06 NCAA Baseball",2006-01-18,"XB","EA Sports","EA Canada",0.34,0.25,0.07,NA,0.01,NA,NA,"Xbox",2006,1,18,18
+"181","MVP Baseball 2003",2003-03-10,"PS2","EA Sports","EA Sports",1.04,0.51,0.4,NA,0.13,NA,NA,"PlayStation",2003,3,10,69
+"182","MVP Baseball 2003",2003-03-10,"XB","EA Sports","EA Sports",0.2,0.15,0.04,NA,0.01,NA,NA,"Xbox",2003,3,10,69
+"183","MVP Baseball 2004",2004-03-09,"XB","EA Sports","EA Sports",0.59,0.44,0.13,NA,0.02,NA,NA,"Xbox",2004,3,9,69
+"184","MVP Baseball 2004",2004-03-09,"GC","EA Sports","EA Sports",0.26,0.2,0.05,NA,0.01,8.9,NA,"Other",2004,3,9,69
+"185","MVP Baseball 2005",2005-02-22,"PS2","EA Sports","EA Canada",1.54,1.26,0.07,NA,0.21,NA,NA,"PlayStation",2005,2,22,53
+"186","MVP Baseball 2005",2005-02-22,"XB","EA Sports","EA Canada",0.94,0.7,0.2,NA,0.03,NA,NA,"Xbox",2005,2,22,53
+"187","MVP Baseball 2005",2005-02-22,"GC","EA Sports","EA Canada",0.33,0.25,0.07,NA,0.01,8.7,NA,"Other",2005,2,22,53
+"188","Madden Football 64",1997-10-31,"N64","EA Sports","EA Tiburon",0.86,0.81,0.04,NA,0.01,NA,NA,"Other",1997,10,31,304
+"189","Madden NFL 06",2005-08-08,"PS2","EA Sports","EA Tiburon",4.91,3.98,0.26,0.01,0.66,9.1,NA,"PlayStation",2005,8,8,220
+"190","Madden NFL 06",2005-08-08,"XB","EA Sports","EA Tiburon",1.86,1.75,0.03,NA,0.08,NA,NA,"Xbox",2005,8,8,220
+"191","Madden NFL 06",2005-09-20,"PSP","EA Sports","EA Tiburon",0.75,0.69,0,NA,0.06,7.9,NA,"PlayStation",2005,9,20,263
+"192","Madden NFL 06",2005-11-16,"X360","EA Sports","EA Tiburon",0.59,0.54,0,0.01,0.03,7.7,NA,"Xbox",2005,11,16,320
+"193","Madden NFL 06",2005-08-08,"GC","EA Sports","EA Tiburon",0.57,0.44,0.11,NA,0.02,8.7,NA,"Other",2005,8,8,220
+"194","Madden NFL 06",2005-08-08,"GBA","EA Sports","Exient Entertainment",0.23,0.17,0.06,NA,0,NA,NA,"Other",2005,8,8,220
+"195","Madden NFL 06",2005-08-08,"DS","EA Sports","Exient Entertainment",0.12,0.11,NA,NA,0.01,NA,NA,"Other",2005,8,8,220
+"196","Madden NFL 07",2006-08-22,"XB","EA Sports","EA Tiburon",1.02,0.97,0.03,NA,0.03,8.4,NA,"Xbox",2006,8,22,234
+"197","Madden NFL 07",2006-08-22,"PSP","EA Sports","EA Tiburon",0.83,0.77,0.03,NA,0.04,8.3,NA,"PlayStation",2006,8,22,234
+"198","Madden NFL 07",2006-08-22,"GC","EA Sports","EA Tiburon",0.62,0.48,0.13,NA,0.02,8.5,NA,"Other",2006,8,22,234
+"199","Madden NFL 07",2006-11-14,"PS3","EA Sports","EA Tiburon",0.53,0.48,NA,0.01,0.04,8,NA,"PlayStation",2006,11,14,318
+"200","Madden NFL 07",2006-11-14,"Wii","EA Sports","HB Studios",0.5,0.46,0,NA,0.04,8.2,NA,"Other",2006,11,14,318
+"201","Madden NFL 07",2006-08-22,"DS","EA Sports","Exient Entertainment",0.21,0.2,0,NA,0.02,6.9,NA,"Other",2006,8,22,234
+"202","Madden NFL 07",2006-08-22,"GBA","EA Sports","Exient Entertainment",0.03,0.02,0.01,NA,0,7,NA,"Other",2006,8,22,234
+"203","Madden NFL 08",2007-08-14,"PS2","EA Sports","EA Tiburon",2.57,2.14,0.08,NA,0.35,NA,NA,"PlayStation",2007,8,14,226
+"204","Madden NFL 08",2007-08-14,"X360","EA Sports","EA Tiburon",2.37,2.18,0.01,NA,0.18,8.7,NA,"Xbox",2007,8,14,226
+"205","Madden NFL 08",2007-08-14,"PS3","EA Sports","EA Tiburon",0.97,0.89,0.01,NA,0.08,NA,NA,"PlayStation",2007,8,14,226
+"206","Madden NFL 08",2007-08-14,"Wii","EA Sports","EA Tiburon",0.88,0.8,0,NA,0.07,NA,NA,"Other",2007,8,14,226
+"207","Madden NFL 08",2007-08-14,"PSP","EA Sports","EA Tiburon",0.71,0.6,0.04,NA,0.07,7.3,NA,"PlayStation",2007,8,14,226
+"208","Madden NFL 08",2007-08-14,"XB","EA Sports","EA Tiburon",0.29,0.22,0.06,NA,0.01,NA,NA,"Xbox",2007,8,14,226
+"209","Madden NFL 08",2007-08-14,"DS","EA Sports","EA Tiburon",0.26,0.24,0,NA,0.02,NA,NA,"Other",2007,8,14,226
+"210","Madden NFL 08",2007-08-14,"GC","EA Sports","EA Tiburon",0.08,0.06,0.02,NA,0,7.6,NA,"Other",2007,8,14,226
+"211","Madden NFL 08",2007-08-14,"PC","EA Sports","EA Tiburon",0.01,NA,0.01,NA,0,NA,NA,"PC",2007,8,14,226
+"212","Madden NFL 09",2008-08-12,"X360","EA Sports","EA Tiburon",2.54,2.21,0.12,NA,0.2,8.5,NA,"Xbox",2008,8,12,225
+"213","Madden NFL 09",2008-08-12,"PS3","EA Sports","EA Tiburon",1.89,1.56,0.15,0,0.18,8.6,NA,"PlayStation",2008,8,12,225
+"214","Madden NFL 09",2008-08-12,"PS2","EA Sports","EA Tiburon",1.49,1.22,0,NA,0.27,NA,NA,"PlayStation",2008,8,12,225
+"215","Madden NFL 09",2008-08-12,"PSP","EA Sports","EA Tiburon",0.71,0.65,0,NA,0.06,6.9,NA,"PlayStation",2008,8,12,225
+"216","Madden NFL 09",2008-08-12,"DS","EA Sports","EA Tiburon",0.32,0.3,0,NA,0.02,NA,NA,"Other",2008,8,12,225
+"217","Madden NFL 09",2008-08-12,"XB","EA Sports","EA Tiburon",0.18,0.13,0.04,NA,0.01,NA,NA,"Xbox",2008,8,12,225
+"218","Madden NFL 09 All-Play",2008-08-12,"Wii","EA Sports","EA Tiburon",0.84,0.77,0.01,NA,0.06,NA,NA,"Other",2008,8,12,225
+"219","Madden NFL 10",2009-08-14,"X360","EA Sports","EA Tiburon",2.83,2.52,0.09,NA,0.22,8.6,NA,"Xbox",2009,8,14,226
+"220","Madden NFL 10",2009-08-14,"PS3","EA Sports","EA Tiburon",2.37,2.03,0.13,NA,0.21,8.5,NA,"PlayStation",2009,8,14,226
+"221","Madden NFL 10",2009-08-14,"PS2","EA Sports","EA Tiburon",0.98,0.88,0,NA,0.1,NA,NA,"PlayStation",2009,8,14,226
+"222","Madden NFL 10",2009-08-14,"Wii","EA Sports","EA Tiburon",0.72,0.62,0.04,NA,0.06,7.5,NA,"Other",2009,8,14,226
+"223","Madden NFL 10",2009-08-14,"PSP","EA Sports","EA Tiburon",0.67,0.5,0.08,NA,0.09,8,NA,"PlayStation",2009,8,14,226
+"224","Madden NFL 11",2010-08-10,"X360","EA Sports","EA Tiburon",2.69,2.38,0.12,NA,0.19,8.3,NA,"Xbox",2010,8,10,222
+"225","Madden NFL 11",2010-08-10,"PS3","EA Sports","EA Tiburon",2.4,2.05,0.15,NA,0.2,8.4,NA,"PlayStation",2010,8,10,222
+"226","Madden NFL 11",2010-08-10,"Wii","EA Sports","EA Tiburon",0.73,0.68,NA,NA,0.05,6.8,NA,"Other",2010,8,10,222
+"227","Madden NFL 11",2010-08-10,"PS2","EA Sports","EA Tiburon",0.5,0.41,0.02,NA,0.07,NA,NA,"PlayStation",2010,8,10,222
+"228","Madden NFL 11",2010-08-10,"PSP","EA Sports","EA Tiburon",0.39,0.36,NA,NA,0.03,NA,NA,"PlayStation",2010,8,10,222
+"229","Madden NFL 12",2011-08-30,"X360","EA Sports","EA Tiburon",2.7,2.43,0.11,NA,0.16,7.8,NA,"Xbox",2011,8,30,242
+"230","Madden NFL 12",2011-08-30,"PS3","EA Sports","EA Tiburon",2.27,1.93,0.15,NA,0.18,7.8,NA,"PlayStation",2011,8,30,242
+"231","Madden NFL 12",2011-08-30,"Wii","EA Sports","EA Tiburon",0.44,0.41,NA,NA,0.03,7,NA,"Other",2011,8,30,242
+"232","Madden NFL 12",2011-08-30,"PSP","EA Sports","EA Tiburon",0.23,0.21,NA,NA,0.02,NA,NA,"PlayStation",2011,8,30,242
+"233","Madden NFL 13",2012-08-28,"X360","EA Sports","EA Tiburon",2.93,2.53,0.16,NA,0.24,8,NA,"Xbox",2012,8,28,241
+"234","Madden NFL 13",2012-08-28,"PS3","EA Sports","EA Tiburon",2.71,2.12,0.24,NA,0.36,8.3,NA,"PlayStation",2012,8,28,241
+"235","Madden NFL 13",2012-08-28,"Wii","EA Sports","EA Tiburon",0.52,0.47,NA,NA,0.05,NA,NA,"Other",2012,8,28,241
+"236","Madden NFL 13",2012-08-28,"PSV","EA Sports","EA Tiburon",0.35,0.28,NA,NA,0.07,6.2,NA,"PlayStation",2012,8,28,241
+"237","Madden NFL 13",2012-11-18,"WiiU","EA Sports","EA Tiburon",0.23,0.21,NA,NA,0.02,7.2,NA,"Other",2012,11,18,323
+"238","Madden NFL 15",2014-08-26,"PS4","EA Sports","EA Tiburon",2.25,1.58,0.25,NA,0.41,NA,NA,"PlayStation",2014,8,26,238
+"239","Madden NFL 15",2014-08-26,"X360","EA Sports","EA Tiburon",2.09,1.8,0.06,NA,0.22,NA,NA,"Xbox",2014,8,26,238
+"240","Madden NFL 15",2014-08-26,"XOne","EA Sports","EA Tiburon",1.6,1.34,0.1,NA,0.17,NA,NA,"Xbox",2014,8,26,238
+"241","Madden NFL 15",2014-08-26,"PS3","EA Sports","EA Tiburon",1.49,1.11,0.11,NA,0.28,NA,NA,"PlayStation",2014,8,26,238
+"242","Madden NFL 16",2015-08-25,"PS4","EA Sports","EA Tiburon",3.3,2.39,0.31,NA,0.61,8.2,NA,"PlayStation",2015,8,25,237
+"243","Madden NFL 16",2015-08-25,"XOne","EA Sports","EA Tiburon",2.47,2.13,0.08,NA,0.26,8.4,NA,"Xbox",2015,8,25,237
+"244","Madden NFL 16",2015-08-25,"X360","EA Sports","EA Tiburon",1.01,0.88,0.02,NA,0.11,8,NA,"Xbox",2015,8,25,237
+"245","Madden NFL 16",2015-08-25,"PS3","EA Sports","EA Tiburon",0.81,0.6,0.07,NA,0.15,8,NA,"PlayStation",2015,8,25,237
+"246","Madden NFL 17",2016-08-23,"PS4","EA Sports","EA Tiburon",3.28,2.3,0.37,NA,0.6,8.5,NA,"PlayStation",2016,8,23,236
+"247","Madden NFL 17",2016-08-23,"XOne","EA Sports","EA Tiburon",2.44,2.14,0.04,NA,0.26,8.1,NA,"Xbox",2016,8,23,236
+"248","Madden NFL 17",2016-08-23,"X360","EA Sports","EA Tiburon",0.47,0.37,0.05,NA,0.05,NA,NA,"Xbox",2016,8,23,236
+"249","Madden NFL 17",2016-08-23,"PS3","EA Sports","EA Tiburon",0.25,0.15,0.05,NA,0.04,NA,NA,"PlayStation",2016,8,23,236
+"250","Madden NFL 18",2017-08-25,"PS4","EA Sports","EA Tiburon",2.62,1.73,0.42,NA,0.47,8.2,NA,"PlayStation",2017,8,25,237
+"251","Madden NFL 18",2017-08-25,"XOne","EA Sports","EA Tiburon",1.91,1.63,0.07,NA,0.2,8.8,NA,"Xbox",2017,8,25,237
+"252","Madden NFL 19",2018-08-10,"PS4","EA Sports","EA Tiburon",2.21,1.63,0.18,NA,0.41,NA,NA,"PlayStation",2018,8,10,222
+"253","Madden NFL 19",2018-08-10,"XOne","EA Sports","EA Tiburon",1.51,1.33,0.02,NA,0.16,NA,NA,"Xbox",2018,8,10,222
+"254","Madden NFL 2000",1999-07-31,"PS","EA Sports","EA Tiburon",1.75,1.68,0.04,NA,0.04,NA,NA,"PlayStation",1999,7,31,212
+"255","Madden NFL 2000",1999-08-31,"N64","EA Sports","EA Tiburon",0.61,0.58,0.02,NA,0,NA,NA,"Other",1999,8,31,243
+"256","Madden NFL 2001",2000-08-22,"PS","EA Sports","EA Sports",1.67,1.58,0.05,NA,0.04,NA,NA,"PlayStation",2000,8,22,235
+"257","Madden NFL 2001",2000-10-23,"PS2","EA Sports","EA Sports",1.5,1.19,0.07,0.05,0.2,NA,NA,"PlayStation",2000,10,23,297
+"258","Madden NFL 2001",2000-08-28,"N64","EA Sports","EA Tiburon",0.64,0.6,0.03,NA,0.01,NA,NA,"Other",2000,8,28,241
+"259","Madden NFL 2002",2001-08-19,"PS2","EA Sports","EA Sports",3.08,2.5,0.16,0.01,0.42,NA,NA,"PlayStation",2001,8,19,231
+"260","Madden NFL 2002",2001-08-13,"PS","EA Sports","EA Sports",1.39,0.78,0.53,NA,0.09,NA,NA,"PlayStation",2001,8,13,225
+"261","Madden NFL 2002",2001-11-17,"GC","EA Sports","EA Sports",0.61,0.47,0.12,NA,0.02,8.6,NA,"Other",2001,11,17,321
+"262","Madden NFL 2002",2001-10-29,"XB","EA Sports","EA Sports",0.58,0.53,0.02,NA,0.03,NA,NA,"Xbox",2001,10,29,302
+"263","Madden NFL 2002",2001-09-12,"N64","EA Sports","BudCat Games",0.43,0.41,0.02,NA,0,NA,NA,"Other",2001,9,12,255
+"264","Madden NFL 2002",2001-11-20,"GBA","EA Sports","BudCat Creations",0.32,0.23,0.08,NA,0.01,NA,NA,"Other",2001,11,20,324
+"265","Madden NFL 2003",2002-08-12,"PS2","EA Sports","EA Tiburon",4.14,3.36,0.21,0.01,0.56,9.4,NA,"PlayStation",2002,8,12,224
+"266","Madden NFL 2003",2002-08-12,"XB","EA Sports","EA Tiburon",0.71,0.67,0.02,NA,0.03,NA,NA,"Xbox",2002,8,12,224
+"267","Madden NFL 2003",2002-08-12,"GBA","EA Sports","BudCat Creations",0.61,0.44,0.16,NA,0.01,NA,NA,"Other",2002,8,12,224
+"268","Madden NFL 2003",2002-08-12,"GC","EA Sports","EA Tiburon",0.43,0.33,0.09,NA,0.01,9.1,NA,"Other",2002,8,12,224
+"269","Madden NFL 2004",2003-08-12,"PS2","EA Sports","EA Tiburon",5.23,4.26,0.26,0.01,0.71,9.5,NA,"PlayStation",2003,8,12,224
+"270","Madden NFL 2004",2003-08-12,"XB","EA Sports","EA Tiburon",1.09,1.02,0.02,NA,0.05,NA,NA,"Xbox",2003,8,12,224
+"271","Madden NFL 2004",2003-08-12,"GC","EA Sports","EA Tiburon",0.51,0.4,0.1,NA,0.01,9.2,NA,"Other",2003,8,12,224
+"272","Madden NFL 2004",2003-08-12,"GBA","EA Sports","BudCat Creations",0.31,0.22,0.08,NA,0.01,NA,NA,"Other",2003,8,12,224
+"273","Madden NFL 2005",2004-08-09,"PS2","EA Sports","EA Tiburon",4.53,4.18,0.26,0.01,0.08,9.5,NA,"PlayStation",2004,8,9,222
+"274","Madden NFL 2005",2004-08-09,"XB","EA Sports","EA Tiburon",1.72,1.61,0.03,NA,0.08,NA,NA,"Xbox",2004,8,9,222
+"275","Madden NFL 2005",2004-08-09,"GC","EA Sports","EA Tiburon",0.7,0.54,0.14,NA,0.02,9.2,NA,"Other",2004,8,9,222
+"276","Madden NFL 2005",2004-08-09,"GBA","EA Sports","Exient Entertainment",0.39,0.28,0.1,NA,0.01,NA,NA,"Other",2004,8,9,222
+"277","Madden NFL 2005",2004-11-17,"DS","EA Sports","Exient Entertainment",0.26,0.24,NA,NA,0.02,NA,NA,"Other",2004,11,17,322
+"278","Madden NFL 25",2013-08-27,"X360","EA Sports","EA Tiburon",2.33,2.02,0.07,NA,0.25,7.8,NA,"Xbox",2013,8,27,239
+"279","Madden NFL 25",2013-11-15,"PS4","EA Sports","EA Tiburon",0.96,0.64,0.15,NA,0.17,7.4,NA,"PlayStation",2013,11,15,319
+"280","Madden NFL 25",2013-11-22,"XOne","EA Sports","EA Tiburon",0.83,0.69,0.06,NA,0.09,7.1,NA,"Xbox",2013,11,22,326
+"281","Madden NFL 97",1996-08-31,"PS","EA Sports","EA Tiburon",1.32,0.73,0.5,NA,0.09,NA,NA,"PlayStation",1996,8,31,244
+"282","Madden NFL 98",1997-07-31,"PS","EA Sports","EA Tiburon",1.35,1.29,0.03,NA,0.03,NA,NA,"PlayStation",1997,7,31,212
+"283","Madden NFL 99",1998-09-01,"N64","EA Sports","EA Tiburon",0.9,0.84,0.05,NA,0.01,NA,NA,"Other",1998,9,1,244
+"284","Madden NFL Football",2011-03-22,"3DS","EA Sports","EA Tiburon",0.41,0.37,0.01,NA,0.03,4.5,NA,"Other",2011,3,22,81
+"285","NASCAR",2006-09-06,"PSP","EA Sports","EA Tiburon",0.1,0.09,NA,NA,0.01,7.2,NA,"PlayStation",2006,9,6,249
+"286","NASCAR 06: Total Team Control",2005-08-30,"PS2","EA Sports","EA Tiburon",0.63,0.53,0.02,NA,0.09,NA,NA,"PlayStation",2005,8,30,242
+"287","NASCAR 06: Total Team Control",2005-08-30,"XB","EA Sports","EA Tiburon",0.27,0.2,0.06,NA,0.01,NA,NA,"Xbox",2005,8,30,242
+"288","NASCAR 07",2006-09-06,"PS2","EA Sports","EA Tiburon",0.11,0.06,0.04,NA,0.01,NA,NA,"PlayStation",2006,9,6,249
+"289","NASCAR 07",2006-09-06,"XB","EA Sports","EA Tiburon",0.04,0.03,0.01,NA,0,NA,NA,"Xbox",2006,9,6,249
+"290","NASCAR 08",2007-07-23,"X360","EA Sports","EA Tiburon",0.29,0.26,0,NA,0.02,NA,NA,"Xbox",2007,7,23,204
+"291","NASCAR 08",2007-07-23,"PS2","EA Sports","EA Tiburon",0.24,0.12,0.09,NA,0.03,NA,NA,"PlayStation",2007,7,23,204
+"292","NASCAR 08",2007-07-23,"PS3","EA Sports","EA Tiburon",0.23,0.15,0.05,NA,0.03,NA,NA,"PlayStation",2007,7,23,204
+"293","NASCAR 09",2008-06-10,"PS2","EA Sports","EA Tiburon",0.53,0.26,0.2,NA,0.07,NA,NA,"PlayStation",2008,6,10,162
+"294","NASCAR 09",2008-06-10,"PS3","EA Sports","EA Tiburon",0.25,0.22,0.01,NA,0.02,NA,NA,"PlayStation",2008,6,10,162
+"295","NASCAR 09",2008-06-10,"X360","EA Sports","EA Tiburon",0.25,0.23,0,NA,0.02,7.1,NA,"Xbox",2008,6,10,162
+"296","NASCAR 2000",1999-09-30,"PS","EA Sports","Stormfront Studios",1.59,0.88,0.6,NA,0.1,NA,NA,"PlayStation",1999,9,30,273
+"297","NASCAR 2000",1999-09-30,"N64","EA Sports","Stormfront Studios",0.53,0.49,0.03,NA,0,NA,NA,"Other",1999,9,30,273
+"298","NASCAR 2001",2000-09-19,"PS","EA Sports","EA Black Box",0.81,0.45,0.31,NA,0.05,NA,NA,"PlayStation",2000,9,19,263
+"299","NASCAR 2001",2000-11-06,"PS2","EA Sports","EA Black Box",0.7,0.34,0.27,NA,0.09,NA,NA,"PlayStation",2000,11,6,311
+"300","NASCAR 2005: Chase for the Cup",2004-08-31,"PS2","EA Sports","EA Tiburon",1.41,0.69,0.54,NA,0.18,NA,NA,"PlayStation",2004,8,31,244
+"301","NASCAR 2005: Chase for the Cup",2004-08-31,"XB","EA Sports","EA Tiburon",0.45,0.34,0.1,NA,0.02,NA,NA,"Xbox",2004,8,31,244
+"302","NASCAR 2005: Chase for the Cup",2004-09-04,"GC","EA Sports","EA Tiburon",0.12,0.1,0.02,NA,0,NA,NA,"Other",2004,9,4,248
+"303","NASCAR 98",1997-01-01,"PS","EA Sports","Stormfront Studios",1.52,1.43,0.05,NA,0.04,NA,NA,"PlayStation",1997,1,1,1
+"304","NASCAR 99",1998-09-30,"PS","EA Sports","Stormfront Studios",1.52,1.45,0.04,NA,0.04,NA,NA,"PlayStation",1998,9,30,273
+"305","NASCAR 99",1998-09-11,"N64","EA Sports","Stormfront Studios",0.98,0.94,0.04,NA,0.01,NA,NA,"Other",1998,9,11,254
+"306","NASCAR Kart Racing",2009-02-10,"Wii","EA Sports","Electronic Arts North Carolina",0.42,0.39,NA,NA,0.03,NA,NA,"Other",2009,2,10,41
+"307","NASCAR Thunder 2002",2001-10-15,"PS2","EA Sports","EA Tiburon",1.16,0.57,0.44,NA,0.15,NA,NA,"PlayStation",2001,10,15,288
+"308","NASCAR Thunder 2002",2001-10-02,"PS","EA Sports","EA Black Box",0.42,0.23,0.16,NA,0.03,NA,NA,"PlayStation",2001,10,2,275
+"309","NASCAR Thunder 2002",2001-11-14,"XB","EA Sports","EA Tiburon",0.33,0.25,0.07,NA,0.01,NA,NA,"Xbox",2001,11,14,318
+"310","NASCAR Thunder 2003",2002-09-29,"PS2","EA Sports","EA Tiburon",1.22,0.6,0.46,NA,0.16,NA,NA,"PlayStation",2002,9,29,272
+"311","NASCAR Thunder 2003",2002-09-19,"GC","EA Sports","EA Tiburon",0.31,0.24,0.06,NA,0.01,8.8,NA,"Other",2002,9,19,262
+"312","NASCAR Thunder 2003",2002-09-19,"XB","EA Sports","EA Tiburon",0.27,0.2,0.06,NA,0.01,NA,NA,"Xbox",2002,9,19,262
+"313","NASCAR Thunder 2004",2003-09-16,"PS2","EA Sports","EA Tiburon",1.08,0.53,0.41,NA,0.14,NA,NA,"PlayStation",2003,9,16,259
+"314","NASCAR Thunder 2004",2003-09-16,"XB","EA Sports","EA Tiburon",0.23,0.18,0.05,NA,0.01,NA,NA,"Xbox",2003,9,16,259
+"315","NBA Jam",2010-10-05,"Wii","EA Sports","EA Canada",0.41,0.36,0.02,NA,0.02,8,NA,"Other",2010,10,5,278
+"316","NBA Jam",2010-11-16,"PS3","EA Sports","EA Tiburon",0.4,0.22,0.12,NA,0.06,NA,NA,"PlayStation",2010,11,16,320
+"317","NBA Jam",2010-11-16,"X360","EA Sports","EA Tiburon",0.39,0.27,0.09,NA,0.03,NA,NA,"Xbox",2010,11,16,320
+"318","NBA Live 06",2005-09-26,"XB","EA Sports","EA Canada",0.64,0.57,0.04,NA,0.03,NA,NA,"Xbox",2005,9,26,269
+"319","NBA Live 06",2005-10-04,"PSP","EA Sports","EA Canada",0.42,0.39,0,NA,0.03,8.1,NA,"PlayStation",2005,10,4,277
+"320","NBA Live 06",2005-09-26,"GC","EA Sports","EA Canada",0.33,0.25,0.07,NA,0.01,NA,NA,"Other",2005,9,26,269
+"321","NBA Live 06",2005-11-16,"X360","EA Sports","EA Canada",0.29,0.27,0,NA,0.02,6.5,NA,"Xbox",2005,11,16,320
+"322","NBA Live 06 (All region sales)",2005-09-26,"PS2","EA Sports","EA Canada",1.64,1.44,0.15,NA,0.05,NA,NA,"PlayStation",2005,9,26,269
+"323","NBA Live 06 (Weekly american sales)",2005-09-26,"PS2","EA Sports","EA Canada",1.42,1.35,0.05,NA,0.02,NA,NA,"PlayStation",2005,9,26,269
+"324","NBA Live 07",2006-09-25,"PS2","EA Sports","EA Canada",1.3,1.07,0.04,0.02,0.17,6.3,NA,"PlayStation",2006,9,25,268
+"325","NBA Live 07",2006-09-25,"PSP","EA Sports","EA Canada",0.51,0.47,0,NA,0.04,7,NA,"PlayStation",2006,9,25,268
+"326","NBA Live 07",2006-09-25,"X360","EA Sports","EA Canada",0.47,0.43,0,NA,0.04,6,NA,"Xbox",2006,9,25,268
+"327","NBA Live 07",2006-09-25,"XB","EA Sports","EA Canada",0.06,0.04,0.01,NA,0,6.4,NA,"Xbox",2006,9,25,268
+"328","NBA Live 08",2007-10-30,"PC","EA Sports","EA Canada",0,NA,0,NA,0,NA,NA,"PC",2007,10,30,303
+"329","NBA Live 09 All-Play",2008-10-07,"Wii","EA Sports","EA Canada",0.22,0.19,0.02,NA,0.02,NA,NA,"Other",2008,10,7,281
+"330","NBA Live 10",2009-10-06,"PS3","EA Sports","EA Canada",0.54,0.46,0.03,0.01,0.05,7.9,NA,"PlayStation",2009,10,6,279
+"331","NBA Live 10",2009-10-06,"X360","EA Sports","EA Canada",0.45,0.4,0.02,NA,0.03,NA,NA,"Xbox",2009,10,6,279
+"332","NBA Live 10",2009-10-06,"PSP","EA Sports","EA Canada",0.24,0.21,0,0.01,0.02,5.9,NA,"PlayStation",2009,10,6,279
+"333","NBA Live 14",2013-11-15,"PS4","EA Sports","EA Tiburon",0.27,0.17,0.05,NA,0.05,NA,NA,"PlayStation",2013,11,15,319
+"334","NBA Live 14",2013-11-22,"XOne","EA Sports","EA Tiburon",0.24,0.19,0.02,NA,0.02,NA,NA,"Xbox",2013,11,22,326
+"335","NBA Live 16",2015-09-29,"PS4","EA Sports","EA Tiburon",0.21,0.13,0.05,NA,0.04,NA,NA,"PlayStation",2015,9,29,272
+"336","NBA Live 16",2015-09-29,"XOne","EA Sports","EA Tiburon",0.13,0.11,0.01,NA,0.01,NA,NA,"Xbox",2015,9,29,272
+"337","NBA Live 18",2017-09-15,"PS4","EA Sports","EA Sports",0.24,0.2,NA,NA,0.05,NA,NA,"PlayStation",2017,9,15,258
+"338","NBA Live 18",2017-09-15,"XOne","EA Sports","EA Sports",0.21,0.18,NA,NA,0.02,NA,NA,"Xbox",2017,9,15,258
+"339","NBA Live 2000",1999-10-31,"PS","EA Sports","NuFX",1.52,1.43,0.05,NA,0.03,NA,NA,"PlayStation",1999,10,31,304
+"340","NBA Live 2000",1999-10-31,"N64","EA Sports","NuFX",0.44,0.42,0.02,NA,0,NA,NA,"Other",1999,10,31,304
+"341","NBA Live 2001",2000-10-16,"PS","EA Sports","EA Canada",1.25,0.7,0.47,NA,0.08,NA,NA,"PlayStation",2000,10,16,290
+"342","NBA Live 2001",2001-01-22,"PS2","EA Sports","EA Canada",1.1,0.52,0.4,0.04,0.13,NA,NA,"PlayStation",2001,1,22,22
+"343","NBA Live 2002",2001-10-29,"PS2","EA Sports","EA Canada",1.86,0.91,0.71,NA,0.24,NA,NA,"PlayStation",2001,10,29,302
+"344","NBA Live 2002",2001-10-30,"PS","EA Sports","EA Canada",0.52,0.29,0.19,NA,0.03,NA,NA,"PlayStation",2001,10,30,303
+"345","NBA Live 2002",2001-11-18,"XB","EA Sports","EA Canada",0.4,0.35,0.03,NA,0.02,NA,NA,"Xbox",2001,11,18,322
+"346","NBA Live 2003",2002-10-08,"PS2","EA Sports","EA Canada",1.66,1.25,0.15,0.03,0.22,NA,NA,"PlayStation",2002,10,8,281
+"347","NBA Live 2003",2002-10-08,"XB","EA Sports","EA Canada",0.36,0.31,0.04,NA,0.01,NA,NA,"Xbox",2002,10,8,281
+"348","NBA Live 2003",2002-10-08,"GC","EA Sports","EA Canada",0.3,0.23,0.06,NA,0.01,8.4,NA,"Other",2002,10,8,281
+"349","NBA Live 2004",2003-10-14,"PS2","EA Sports","EA Canada",2.03,1.57,0.18,NA,0.27,NA,NA,"PlayStation",2003,10,14,287
+"350","NBA Live 2004",2003-10-14,"XB","EA Sports","EA Canada",0.51,0.44,0.04,NA,0.02,NA,NA,"Xbox",2003,10,14,287
+"351","NBA Live 2004",2003-10-15,"GC","EA Sports","EA Canada",0.27,0.21,0.05,NA,0.01,8.4,NA,"Other",2003,10,15,288
+"352","NBA Live 2005",2004-09-28,"PS2","EA Sports","EA Canada",2.59,2.03,0.21,NA,0.35,NA,NA,"PlayStation",2004,9,28,272
+"353","NBA Live 2005",2004-09-28,"XB","EA Sports","EA Canada",0.9,0.81,0.05,NA,0.04,NA,NA,"Xbox",2004,9,28,272
+"354","NBA Live 2005",2004-09-28,"GC","EA Sports","EA Canada",0.45,0.35,0.09,NA,0.01,8.5,NA,"Other",2004,9,28,272
+"355","NBA Live 97",1996-10-31,"PS","EA Sports","Electronic Arts",1,0.55,0.38,NA,0.07,NA,NA,"PlayStation",1996,10,31,305
+"356","NBA Live 98",1997-11-30,"PS","EA Sports","EA Canada",1.51,1.41,0.06,NA,0.04,NA,NA,"PlayStation",1997,11,30,334
+"357","NBA Live 99",1998-10-31,"PS","EA Sports","NuFX",1.22,1.13,0.05,NA,0.03,8.3,NA,"PlayStation",1998,10,31,304
+"358","NBA Live 99",1998-11-04,"N64","EA Sports","NuFX",0.47,0.45,0.02,NA,0,NA,NA,"Other",1998,11,4,308
+"359","NBA Street Homecourt",2007-02-20,"X360","EA Sports","EA Canada",0.5,0.45,0.01,0,0.04,NA,NA,"Xbox",2007,2,20,51
+"360","NCAA Basketball 09",2008-11-17,"PS2","EA Sports","EA Canada",0.28,0.14,0.11,NA,0.04,NA,NA,"PlayStation",2008,11,17,322
+"361","NCAA Basketball 09",2008-11-17,"X360","EA Sports","EA Canada",0.22,0.2,NA,NA,0.02,NA,NA,"Xbox",2008,11,17,322
+"362","NCAA Basketball 09",2008-11-17,"PS3","EA Sports","EA Canada",0.17,0.15,NA,NA,0.01,NA,NA,"PlayStation",2008,11,17,322
+"363","NCAA Football 06",2005-07-11,"PS2","EA Sports","EA Tiburon",1.84,1.53,0.05,NA,0.25,NA,NA,"PlayStation",2005,7,11,192
+"364","NCAA Football 06",2005-07-11,"XB","EA Sports","EA Tiburon",0.97,0.73,0.21,NA,0.03,NA,NA,"Xbox",2005,7,11,192
+"365","NCAA Football 07",2006-07-18,"XB","EA Sports","EA Sports",0.56,0.42,0.12,NA,0.01,8.8,NA,"Xbox",2006,7,18,199
+"366","NCAA Football 08",2007-07-17,"XB","EA Sports","EA Tiburon",0.08,0.06,0.02,NA,0,NA,NA,"Xbox",2007,7,17,198
+"367","NCAA Football 09",2008-07-15,"X360","EA Sports","EA Tiburon",0.71,0.65,NA,NA,0.05,NA,NA,"Xbox",2008,7,15,197
+"368","NCAA Football 09",2008-07-15,"PS3","EA Sports","EA Tiburon",0.58,0.54,NA,NA,0.05,NA,NA,"PlayStation",2008,7,15,197
+"369","NCAA Football 09",2008-07-15,"PS2","EA Sports","EA Tiburon",0.48,0.4,0.02,NA,0.07,NA,NA,"PlayStation",2008,7,15,197
+"370","NCAA Football 09",2008-07-15,"PSP","EA Sports","Team Fusion",0.23,0.21,NA,NA,0.02,6.5,NA,"PlayStation",2008,7,15,197
+"371","NCAA Football 09 All-Play",2008-07-15,"Wii","EA Sports","Team Fusion",0.16,0.15,NA,NA,0.01,5.3,NA,"Other",2008,7,15,197
+"372","NCAA Football 10",2009-07-14,"X360","EA Sports","EA Tiburon",0.94,0.87,NA,NA,0.07,8.1,NA,"Xbox",2009,7,14,195
+"373","NCAA Football 10",2009-07-14,"PS3","EA Sports","EA Tiburon",0.81,0.75,NA,NA,0.06,8.1,NA,"PlayStation",2009,7,14,195
+"374","NCAA Football 10",2009-07-14,"PS2","EA Sports","EA Tiburon",0.58,0.28,0.22,NA,0.07,8,NA,"PlayStation",2009,7,14,195
+"375","NCAA Football 10",2009-07-14,"PSP","EA Sports","EA Tiburon",0.21,0.19,NA,NA,0.02,7,NA,"PlayStation",2009,7,14,195
+"376","NCAA Football 11",2010-07-13,"X360","EA Sports","EA Tiburon",0.93,0.86,NA,NA,0.06,8.5,NA,"Xbox",2010,7,13,194
+"377","NCAA Football 11",2010-07-13,"PS3","EA Sports","EA Tiburon",0.85,0.79,NA,NA,0.06,8.5,NA,"PlayStation",2010,7,13,194
+"378","NCAA Football 11",2010-07-13,"PS2","EA Sports","EA Tiburon",0.38,0.19,0.15,NA,0.05,6.4,NA,"PlayStation",2010,7,13,194
+"379","NCAA Football 12",2011-07-12,"X360","EA Sports","EA Tiburon",1,0.94,NA,NA,0.06,7.8,NA,"Xbox",2011,7,12,193
+"380","NCAA Football 12",2011-07-12,"PS3","EA Sports","EA Tiburon",0.83,0.78,NA,NA,0.06,7.7,NA,"PlayStation",2011,7,12,193
+"381","NCAA Football 13",2012-07-10,"X360","EA Sports","EA Tiburon",1.11,1.02,NA,NA,0.09,7.5,NA,"Xbox",2012,7,10,192
+"382","NCAA Football 13",2012-07-10,"PS3","EA Sports","EA Tiburon",0.93,0.82,NA,NA,0.11,7.1,NA,"PlayStation",2012,7,10,192
+"383","NCAA Football 14",2013-07-09,"X360","EA Sports","EA Tiburon",1.13,1.01,NA,NA,0.12,7.6,NA,"Xbox",2013,7,9,190
+"384","NCAA Football 14",2013-07-09,"PS3","EA Sports","EA Tiburon",0.92,0.75,NA,NA,0.17,7.7,NA,"PlayStation",2013,7,9,190
+"385","NCAA Football 2000",1999-06-30,"PS","EA Sports","EA Sports",0.95,0.53,0.36,NA,0.06,NA,NA,"PlayStation",1999,6,30,181
+"386","NCAA Football 2001",2000-07-25,"PS","EA Sports","EA Sports",0.7,0.39,0.26,NA,0.05,NA,NA,"PlayStation",2000,7,25,207
+"387","NCAA Football 2002",2001-07-23,"PS2","EA Sports","EA Tiburon",1.57,0.77,0.6,NA,0.2,NA,NA,"PlayStation",2001,7,23,204
+"388","NCAA Football 2003",2002-07-20,"PS2","EA Sports","EA Tiburon",1.44,1.16,0.08,NA,0.19,NA,NA,"PlayStation",2002,7,20,201
+"389","NCAA Football 2003",2002-07-20,"XB","EA Sports","EA Tiburon",0.52,0.39,0.11,NA,0.02,NA,NA,"Xbox",2002,7,20,201
+"390","NCAA Football 2003",2002-07-20,"GC","EA Sports","EA Tiburon",0.21,0.16,0.04,NA,0.01,9.2,NA,"Other",2002,7,20,201
+"391","NCAA Football 2004",2003-07-16,"XB","EA Sports","EA Tiburon",0.43,0.4,0.02,NA,0.02,NA,NA,"Xbox",2003,7,16,197
+"392","NCAA Football 2004",2003-07-16,"GC","EA Sports","EA Tiburon",0.15,0.12,0.03,NA,0,8.7,NA,"Other",2003,7,16,197
+"393","NCAA Football 2005",2004-07-15,"PS2","EA Sports","EA Tiburon",1.62,1.32,0.09,NA,0.22,NA,NA,"PlayStation",2004,7,15,197
+"394","NCAA Football 2005",2004-07-15,"XB","EA Sports","EA Tiburon",0.68,0.63,0.02,NA,0.03,NA,NA,"Xbox",2004,7,15,197
+"395","NCAA Football 2005",2004-07-15,"GC","EA Sports","EA Tiburon",0.22,0.17,0.04,NA,0.01,NA,NA,"Other",2004,7,15,197
+"396","NCAA Football 98",1997-07-31,"PS","EA Sports","EA Tiburon",0.7,0.39,0.27,NA,0.05,NA,NA,"PlayStation",1997,7,31,212
+"397","NCAA Football 99",1998-08-01,"PS","EA Sports","EA Tiburon",1.06,0.59,0.4,NA,0.07,NA,NA,"PlayStation",1998,8,1,213
+"398","NCAA March Madness 06",2005-10-11,"PS2","EA Sports","EA Canada",0.53,0.45,0.02,NA,0.07,NA,NA,"PlayStation",2005,10,11,284
+"399","NCAA March Madness 06",2005-10-11,"XB","EA Sports","EA Canada",0.2,0.15,0.04,NA,0.01,NA,NA,"Xbox",2005,10,11,284
+"400","NCAA March Madness 07",2007-01-17,"PS2","EA Sports","EA Canada",0.56,0.28,0.22,NA,0.07,NA,NA,"PlayStation",2007,1,17,17
+"401","NCAA March Madness 07",2007-01-17,"X360","EA Sports","EA Canada",0.21,0.19,NA,NA,0.02,NA,NA,"Xbox",2007,1,17,17
+"402","NCAA March Madness 08",2007-12-11,"PS2","EA Sports","EA Canada",0.26,0.13,0.1,NA,0.03,NA,NA,"PlayStation",2007,12,11,345
+"403","NCAA March Madness 08",2007-12-11,"X360","EA Sports","EA Canada",0.21,0.2,NA,NA,0.02,NA,NA,"Xbox",2007,12,11,345
+"404","NCAA March Madness 08",2007-12-11,"PS3","EA Sports","EA Canada",0.09,0.08,NA,NA,0.01,NA,NA,"PlayStation",2007,12,11,345
+"405","NCAA March Madness 2003",2002-11-21,"PS2","EA Sports","NuFX",0.66,0.32,0.25,NA,0.08,NA,NA,"PlayStation",2002,11,21,325
+"406","NCAA March Madness 2004",2003-11-17,"PS2","EA Sports","NuFX",1.03,0.5,0.39,NA,0.13,NA,NA,"PlayStation",2003,11,17,321
+"407","NCAA March Madness 2004",2003-11-17,"XB","EA Sports","NuFX",0.24,0.18,0.05,NA,0.01,NA,NA,"Xbox",2003,11,17,321
+"408","NCAA March Madness 2005",2004-11-17,"PS2","EA Sports","EA Canada",0.53,0.44,0.02,NA,0.07,NA,NA,"PlayStation",2004,11,17,322
+"409","NCAA March Madness 2005",2004-11-17,"XB","EA Sports","EA Canada",0.28,0.21,0.06,NA,0.01,NA,NA,"Xbox",2004,11,17,322
+"410","NFL Head Coach",2006-06-20,"PS2","EA Sports","EA Tiburon",0.45,0.38,0.01,NA,0.06,NA,NA,"PlayStation",2006,6,20,171
+"411","NFL Head Coach",2006-06-20,"XB","EA Sports","EA Tiburon",0.12,0.09,0.03,NA,0,NA,NA,"Xbox",2006,6,20,171
+"412","NFL Head Coach 09",2008-09-03,"PS3","EA Sports","EA Tiburon",0.14,0.13,NA,NA,0.01,NA,NA,"PlayStation",2008,9,3,247
+"413","NFL Head Coach 09",2008-09-03,"X360","EA Sports","EA Tiburon",0.11,0.11,NA,NA,0.01,NA,NA,"Xbox",2008,9,3,247
+"414","NHL 06",2005-09-06,"PS2","EA Sports","EA Canada",0.58,0.48,0.02,NA,0.08,NA,NA,"PlayStation",2005,9,6,249
+"415","NHL 06",2005-09-06,"XB","EA Sports","EA Canada",0.25,0.19,0.05,NA,0.01,NA,NA,"Xbox",2005,9,6,249
+"416","NHL 06",2005-09-06,"GC","EA Sports","EA Canada",0.08,0.06,0.02,NA,0,NA,NA,"Other",2005,9,6,249
+"417","NHL 07",2006-09-12,"PS2","EA Sports","EA Montreal",0.51,0.42,0.02,NA,0.07,7.2,NA,"PlayStation",2006,9,12,255
+"418","NHL 07",2006-09-12,"X360","EA Sports","EA Canada",0.27,0.25,0,NA,0.02,8,NA,"Xbox",2006,9,12,255
+"419","NHL 07",2006-09-12,"PSP","EA Sports","EA Montreal",0.17,0.13,0.02,NA,0.02,7.6,NA,"PlayStation",2006,9,12,255
+"420","NHL 07",2006-09-12,"XB","EA Sports","EA Montreal",0.03,0.02,0.01,NA,0,7.6,NA,"Xbox",2006,9,12,255
+"421","NHL 10",2009-09-15,"X360","EA Sports","EA Canada",0.66,0.51,0.1,NA,0.06,9.1,NA,"Xbox",2009,9,15,258
+"422","NHL 10",2009-09-15,"PS3","EA Sports","EA Canada",0.57,0.38,0.12,NA,0.07,9.1,NA,"PlayStation",2009,9,15,258
+"423","NHL 11",2010-09-07,"X360","EA Sports","EA Canada",0.73,0.61,0.07,NA,0.05,8.8,NA,"Xbox",2010,9,7,250
+"424","NHL 11",2010-09-07,"PS3","EA Sports","EA Canada",0.59,0.4,0.13,NA,0.07,8.8,NA,"PlayStation",2010,9,7,250
+"425","NHL 12",2011-09-13,"X360","EA Sports","EA Canada",0.7,0.55,0.1,NA,0.05,8.8,NA,"Xbox",2011,9,13,256
+"426","NHL 12",2011-09-13,"PS3","EA Sports","EA Canada",0.58,0.36,0.16,NA,0.07,8.6,NA,"PlayStation",2011,9,13,256
+"427","NHL 14",2013-09-10,"PS3","EA Sports","EA Canada",0.57,0.28,0.19,NA,0.1,NA,NA,"PlayStation",2013,9,10,253
+"428","NHL 14",2013-09-10,"X360","EA Sports","EA Canada",0.54,0.4,0.09,NA,0.05,NA,NA,"Xbox",2013,9,10,253
+"429","NHL 15",2014-09-09,"PS4","EA Sports","EA Canada",0.62,0.32,0.19,NA,0.11,NA,NA,"PlayStation",2014,9,9,252
+"430","NHL 15",2014-09-09,"X360","EA Sports","EA Canada",0.45,0.35,0.05,NA,0.05,NA,NA,"Xbox",2014,9,9,252
+"431","NHL 15",2014-09-09,"XOne","EA Sports","EA Canada",0.42,0.32,0.06,NA,0.04,NA,NA,"Xbox",2014,9,9,252
+"432","NHL 15",2014-09-09,"PS3","EA Sports","EA Canada",0.37,0.22,0.09,NA,0.07,NA,NA,"PlayStation",2014,9,9,252
+"433","NHL 16",2015-09-15,"PS4","EA Sports","EA Canada",0.66,0.38,0.16,NA,0.12,NA,NA,"PlayStation",2015,9,15,258
+"434","NHL 16",2015-09-15,"XOne","EA Sports","EA Canada",0.51,0.41,0.05,NA,0.05,NA,NA,"Xbox",2015,9,15,258
+"435","NHL 16",2015-09-15,"PS3","EA Sports","EA Canada",0.01,NA,0.01,NA,0,NA,NA,"PlayStation",2015,9,15,258
+"436","NHL 16",2015-09-15,"X360","EA Sports","EA Canada",0.01,NA,0.01,NA,0,NA,NA,"Xbox",2015,9,15,258
+"437","NHL 17",2016-09-13,"XOne","EA Sports","EA Canada",0.6,0.52,0.01,NA,0.06,NA,NA,"Xbox",2016,9,13,257
+"438","NHL 17",2016-09-13,"PS4","EA Sports","EA Canada",0.52,0.32,0.11,NA,0.09,NA,NA,"PlayStation",2016,9,13,257
+"439","NHL 18",2017-09-15,"PS4","EA Sports","EA Canada",0.57,0.31,0.16,NA,0.1,NA,NA,"PlayStation",2017,9,15,258
+"440","NHL 18",2017-09-15,"XOne","EA Sports","EA Canada",0.39,0.32,0.03,NA,0.04,NA,NA,"Xbox",2017,9,15,258
+"441","NHL 19",2018-09-14,"PS4","EA Sports","EA Canada",0.43,0.26,0.09,NA,0.08,NA,NA,"PlayStation",2018,9,14,257
+"442","NHL 19",2018-09-14,"XOne","EA Sports","EA Canada",0.29,0.26,NA,NA,0.03,NA,NA,"Xbox",2018,9,14,257
+"443","NHL 2000",1999-09-30,"PS","EA Sports","EA Canada",0.87,0.48,0.33,NA,0.06,NA,NA,"PlayStation",1999,9,30,273
+"444","NHL 2001",2000-10-25,"PS2","EA Sports","EA Canada",0.96,0.47,0.37,NA,0.12,NA,NA,"PlayStation",2000,10,25,299
+"445","NHL 2001",2000-09-26,"PS","EA Sports","Page 44 Studios",0.63,0.35,0.24,NA,0.04,NA,NA,"PlayStation",2000,9,26,270
+"446","NHL 2002",2001-09-24,"PS2","EA Sports","EA Canada",1.2,0.59,0.46,NA,0.15,NA,NA,"PlayStation",2001,9,24,267
+"447","NHL 2002",2001-12-10,"XB","EA Sports","EA Canada",0.27,0.2,0.06,NA,0.01,NA,NA,"Xbox",2001,12,10,344
+"448","NHL 2002",2002-03-07,"GBA","EA Sports","BudCat Creations",0.12,0.09,0.03,NA,0,NA,NA,"Other",2002,3,7,66
+"449","NHL 2003",2002-09-30,"PS2","EA Sports","EA Canada",0.93,0.46,0.36,NA,0.12,NA,NA,"PlayStation",2002,9,30,273
+"450","NHL 2003",2002-10-09,"XB","EA Sports","EA Canada",0.21,0.15,0.04,NA,0.01,NA,NA,"Xbox",2002,10,9,282
+"451","NHL 2003",2002-09-30,"GC","EA Sports","EA Canada",0.13,0.1,0.03,NA,0,NA,NA,"Other",2002,9,30,273
+"452","NHL 2004",2003-09-22,"PS2","EA Sports","EA Black Box",0.97,0.47,0.37,NA,0.12,NA,NA,"PlayStation",2003,9,22,265
+"453","NHL 2004",2003-09-22,"XB","EA Sports","EA Black Box",0.18,0.13,0.04,NA,0.01,NA,NA,"Xbox",2003,9,22,265
+"454","NHL 2004",2003-09-22,"GC","EA Sports","EA Black Box",0.1,0.08,0.02,NA,0,NA,NA,"Other",2003,9,22,265
+"455","NHL 2005",2004-09-20,"PS2","EA Sports","EA Canada",0.45,0.22,0.17,NA,0.06,NA,NA,"PlayStation",2004,9,20,264
+"456","NHL 2005",2004-09-20,"XB","EA Sports","EA Canada",0.16,0.12,0.03,NA,0.01,NA,NA,"Xbox",2004,9,20,264
+"457","NHL 2005",2004-09-20,"GC","EA Sports","EA Canada",0.07,0.05,0.01,NA,0,NA,NA,"Other",2004,9,20,264
+"458","NHL 97",1996-10-31,"PS","EA Sports","Visual Concepts",0.47,0.26,0.18,NA,0.03,NA,NA,"PlayStation",1996,10,31,305
+"459","NHL 98",1997-08-31,"PS","EA Sports","EA Canada",0.92,0.51,0.35,NA,0.06,NA,NA,"PlayStation",1997,8,31,243
+"460","NHL 99",1998-09-30,"PS","EA Sports","EA Canada",1.07,0.59,0.4,NA,0.07,NA,NA,"PlayStation",1998,9,30,273
+"461","NHL 99",1998-10-01,"N64","EA Sports","MBL Research",0.39,0.38,0.01,NA,0,NA,NA,"Other",1998,10,1,274
+"462","NHL Slapshot",2010-09-07,"Wii","EA Sports","EA Canada",0.42,0.39,NA,NA,0.03,7.6,NA,"Other",2010,9,7,250
+"463","NHL-Legacy Edition",2015-09-09,"X360","EA Sports","EA Canada",0.1,0.09,NA,NA,0.01,NA,NA,"Xbox",2015,9,9,252
+"464","NHL-Legacy Edition",2015-09-09,"PS3","EA Sports","EA Canada",0.07,0.06,NA,NA,0.01,NA,NA,"PlayStation",2015,9,9,252
+"465","PGA Tour 96",1995-09-01,"PS","EA Sports","EA Sports",0.24,0.13,0.09,NA,0.02,NA,NA,"PlayStation",1995,9,1,244
+"466","PGA Tour 97",1996-09-30,"PS","EA Sports","VAC",0.29,0.16,0.11,NA,0.02,NA,NA,"PlayStation",1996,9,30,274
+"467","Project FIFA World Cup",2002-05-30,"PS2","EA Sports","Electronic Arts",0.1,NA,NA,0.1,NA,NA,NA,"PlayStation",2002,5,30,150
+"468","Rugby 06",2006-02-14,"PS2","EA Sports","HB Studios Multimedia",0.05,0.02,0.02,NA,0.01,NA,NA,"PlayStation",2006,2,14,45
+"469","Rugby 06",2006-02-14,"XB","EA Sports","HB Studios Multimedia",0.02,0.01,0,NA,0,NA,NA,"Xbox",2006,2,14,45
+"470","Rugby 08",2007-07-27,"PC","EA Sports","EA Canada",0,NA,0,NA,0,NA,NA,"PC",2007,7,27,208
+"471","Rugby 2004",2003-09-16,"PS2","EA Sports","HB Studios Multimedia",0.22,0.11,0.08,NA,0.03,5,NA,"PlayStation",2003,9,16,259
+"472","Rugby 2005",2005-03-08,"PS2","EA Sports","HB Studios Multimedia",0.09,0.04,0.03,NA,0.01,NA,NA,"PlayStation",2005,3,8,67
+"473","Rugby 2005",2005-03-08,"XB","EA Sports","HB Studios Multimedia",0.05,0.04,0.01,NA,0,NA,NA,"Xbox",2005,3,8,67
+"474","SSX",2012-02-28,"PS3","EA Sports","EA Canada",0.92,0.35,0.42,0.02,0.13,NA,NA,"PlayStation",2012,2,28,59
+"475","SSX",2012-02-28,"X360","EA Sports","EA Canada",0.71,0.38,0.26,0,0.06,NA,NA,"Xbox",2012,2,28,59
+"476","Skate 3",2010-05-11,"X360","EA Sports","EA Black Box",2.71,1.47,0.99,NA,0.25,8.3,NA,"Xbox",2010,5,11,131
+"477","Skate 3",2010-05-11,"PS3","EA Sports","EA Black Box",2.03,0.79,0.93,NA,0.32,NA,NA,"PlayStation",2010,5,11,131
+"478","Superbike 2000",2000-02-29,"PS","EA Sports","Milestone",0.27,0.15,0.1,NA,0.02,NA,NA,"PlayStation",2000,2,29,60
+"479","Tiger Woods 99 PGA Tour Golf",1998-10-31,"PS","EA Sports","EA Sports",1.53,0.85,0.58,NA,0.1,NA,NA,"PlayStation",1998,10,31,304
+"480","Tiger Woods PGA Tour",2005-03-23,"PSP","EA Sports","EA Canada",0.21,0.19,NA,NA,0.02,8,NA,"PlayStation",2005,3,23,82
+"481","Tiger Woods PGA Tour",2004-12-14,"DS","EA Sports","EA Canada",0.15,0.13,0,NA,0.01,NA,NA,"Other",2004,12,14,349
+"482","Tiger Woods PGA Tour 06",2005-09-20,"PS2","EA Sports","EA Sports",0.89,0.74,0.03,NA,0.12,NA,NA,"PlayStation",2005,9,20,263
+"483","Tiger Woods PGA Tour 06",2005-09-20,"XB","EA Sports","EA Sports",0.48,0.35,0.11,NA,0.02,NA,NA,"Xbox",2005,9,20,263
+"484","Tiger Woods PGA Tour 06",2005-11-16,"X360","EA Sports","EA Sports",0.31,0.28,0,NA,0.02,6.9,NA,"Xbox",2005,11,16,320
+"485","Tiger Woods PGA Tour 06",2005-09-26,"PSP","EA Sports","EA Sports",0.2,0.18,NA,NA,0.01,8,NA,"PlayStation",2005,9,26,269
+"486","Tiger Woods PGA Tour 06",2005-09-20,"GC","EA Sports","EA Sports",0.11,0.08,0.02,NA,0,NA,NA,"Other",2005,9,20,263
+"487","Tiger Woods PGA Tour 06",2005-09-20,"PC","EA Sports","EA Sports",0.01,0.01,0,NA,0,NA,NA,"PC",2005,9,20,263
+"488","Tiger Woods PGA Tour 07",2006-10-10,"PS2","EA Sports","EA Redwood Shores",0.72,0.6,0.02,NA,0.1,7.8,NA,"PlayStation",2006,10,10,283
+"489","Tiger Woods PGA Tour 07",2006-11-14,"PS3","EA Sports","EA Redwood Shores",0.5,0.31,0.12,NA,0.07,8.1,NA,"PlayStation",2006,11,14,318
+"490","Tiger Woods PGA Tour 07",2006-10-17,"X360","EA Sports","EA Redwood Shores",0.48,0.44,0,NA,0.04,8.2,NA,"Xbox",2006,10,17,290
+"491","Tiger Woods PGA Tour 07",2007-03-13,"Wii","EA Sports","EA Redwood Shores",0.47,0.43,0,NA,0.04,7.1,NA,"Other",2007,3,13,72
+"492","Tiger Woods PGA Tour 07",2006-10-10,"PSP","EA Sports","Team Fusion",0.27,0.2,0.04,NA,0.03,7.6,NA,"PlayStation",2006,10,10,283
+"493","Tiger Woods PGA Tour 07",2006-10-10,"XB","EA Sports","EA Redwood Shores",0.19,0.13,0.05,NA,0.01,7.9,NA,"Xbox",2006,10,10,283
+"494","Tiger Woods PGA Tour 07",2006-10-10,"PC","EA Sports","EA Redwood Shores",0,NA,0,NA,0,7.8,NA,"PC",2006,10,10,283
+"495","Tiger Woods PGA Tour 08",2007-08-28,"DS","EA Sports","Exient Ltd.",0.06,0.05,0,NA,0,NA,NA,"Other",2007,8,28,240
+"496","Tiger Woods PGA Tour 09",2008-08-26,"PS3","EA Sports","EA Tiburon",0.65,0.34,0.22,NA,0.1,8.5,NA,"PlayStation",2008,8,26,239
+"497","Tiger Woods PGA Tour 09",2008-08-26,"X360","EA Sports","EA Tiburon",0.65,0.35,0.23,NA,0.07,NA,NA,"Xbox",2008,8,26,239
+"498","Tiger Woods PGA Tour 09",2008-08-26,"PS2","EA Sports","EA Tiburon",0.37,0.16,0,NA,0.21,NA,NA,"PlayStation",2008,8,26,239
+"499","Tiger Woods PGA Tour 09",2008-08-26,"PSP","EA Sports","EA Tiburon",0.36,0.07,0.19,NA,0.1,5.2,NA,"PlayStation",2008,8,26,239
+"500","Tiger Woods PGA Tour 09 All-Play",2008-08-26,"Wii","EA Sports","EA Tiburon",1.42,0.8,0.48,NA,0.14,NA,NA,"Other",2008,8,26,239
+"501","Tiger Woods PGA Tour 10",2009-06-08,"Wii","EA Sports","EA Tiburon",1.07,0.6,0.37,NA,0.1,9,NA,"Other",2009,6,8,159
+"502","Tiger Woods PGA Tour 10",2009-06-08,"PS3","EA Sports","EA Tiburon",0.78,0.42,0.25,NA,0.11,8.4,NA,"PlayStation",2009,6,8,159
+"503","Tiger Woods PGA Tour 10",2009-06-08,"X360","EA Sports","EA Tiburon",0.65,0.39,0.2,NA,0.06,8.3,NA,"Xbox",2009,6,8,159
+"504","Tiger Woods PGA Tour 10",2009-06-08,"PS2","EA Sports","EA Tiburon",0.26,0.12,0.01,NA,0.13,NA,NA,"PlayStation",2009,6,8,159
+"505","Tiger Woods PGA Tour 10",2009-06-08,"PSP","EA Sports","EA Tiburon",0.24,0.12,0.07,NA,0.05,8.1,NA,"PlayStation",2009,6,8,159
+"506","Tiger Woods PGA Tour 11",2010-06-08,"PS3","EA Sports","EA Tiburon",0.83,0.37,0.34,NA,0.13,7.9,NA,"PlayStation",2010,6,8,159
+"507","Tiger Woods PGA Tour 11",2010-06-08,"Wii","EA Sports","EA Tiburon",0.54,0.23,0.26,NA,0.05,8.3,NA,"Other",2010,6,8,159
+"508","Tiger Woods PGA Tour 11",2010-06-08,"X360","EA Sports","EA Tiburon",0.52,0.28,0.19,NA,0.05,8.1,NA,"Xbox",2010,6,8,159
+"509","Tiger Woods PGA Tour 12: The Masters",2011-03-29,"PS3","EA Sports","EA Tiburon",0.89,0.52,0.25,NA,0.11,NA,NA,"PlayStation",2011,3,29,88
+"510","Tiger Woods PGA Tour 12: The Masters",2011-03-29,"X360","EA Sports","EA Tiburon",0.62,0.4,0.16,NA,0.05,NA,NA,"Xbox",2011,3,29,88
+"511","Tiger Woods PGA Tour 12: The Masters",2011-03-29,"Wii","EA Sports","EA Tiburon",0.35,0.2,0.12,NA,0.03,NA,NA,"Other",2011,3,29,88
+"512","Tiger Woods PGA Tour 14",2013-03-26,"PS3","EA Sports","EA Tiburon",0.39,0.16,0.16,NA,0.06,NA,NA,"PlayStation",2013,3,26,85
+"513","Tiger Woods PGA Tour 14",2013-03-26,"X360","EA Sports","EA Tiburon",0.36,0.21,0.12,NA,0.03,NA,NA,"Xbox",2013,3,26,85
+"514","Tiger Woods PGA Tour 2000",1999-11-30,"PS","EA Sports","EA Redwood Shores",0.66,0.37,0.25,NA,0.04,NA,NA,"PlayStation",1999,11,30,334
+"515","Tiger Woods PGA Tour 2001",2001-02-26,"PS2","EA Sports","Stormfront Studios",0.74,0.36,0.28,NA,0.09,NA,NA,"PlayStation",2001,2,26,57
+"516","Tiger Woods PGA Tour 2002",2002-02-24,"PS2","EA Sports","EA Sports",0.9,0.44,0.35,NA,0.12,NA,NA,"PlayStation",2002,2,24,55
+"517","Tiger Woods PGA Tour 2003",2002-10-27,"PS2","EA Sports","EA Redwood Shores",1.64,0.8,0.63,NA,0.21,NA,NA,"PlayStation",2002,10,27,300
+"518","Tiger Woods PGA Tour 2003",2002-10-27,"XB","EA Sports","EA Redwood Shores",0.44,0.35,0.08,NA,0.01,NA,NA,"Xbox",2002,10,27,300
+"519","Tiger Woods PGA Tour 2003",2002-10-27,"GC","EA Sports","EA Redwood Shores",0.23,0.18,0.05,NA,0.01,NA,NA,"Other",2002,10,27,300
+"520","Tiger Woods PGA Tour 2004",2003-09-22,"PS2","EA Sports","EA Redwood Shores",1.63,1.18,0.34,NA,0.1,NA,NA,"PlayStation",2003,9,22,265
+"521","Tiger Woods PGA Tour 2004",2003-09-22,"XB","EA Sports","EA Redwood Shores",0.62,0.47,0.13,NA,0.02,NA,NA,"Xbox",2003,9,22,265
+"522","Tiger Woods PGA Tour 2004",2003-11-04,"GBA","EA Sports","Digital Eclipse",0.18,0.13,0.05,NA,0,NA,NA,"Other",2003,11,4,308
+"523","Tiger Woods PGA Tour 2004",2003-09-22,"GC","EA Sports","EA Redwood Shores",0.16,0.12,0.03,NA,0,NA,NA,"Other",2003,9,22,265
+"524","Tiger Woods PGA Tour 2004",2003-09-22,"PC","EA Sports","Headgate Studios",0,0,0,NA,0,NA,NA,"PC",2003,9,22,265
+"525","Tiger Woods PGA Tour 2005",2004-09-20,"PS2","EA Sports","EA Redwood Shores",1.44,1.03,0.32,NA,0.09,NA,NA,"PlayStation",2004,9,20,264
+"526","Tiger Woods PGA Tour 2005",2004-09-20,"XB","EA Sports","EA Redwood Shores",0.85,0.64,0.18,NA,0.03,NA,NA,"Xbox",2004,9,20,264
+"527","Tiger Woods PGA Tour 2005",2004-09-20,"GC","EA Sports","EA Redwood Shores",0.14,0.1,0.03,NA,0,NA,NA,"Other",2004,9,20,264
+"528","Tiger Woods PGA Tour 2005",2004-09-20,"PC","EA Sports","Headgate Studios",0.01,NA,0.01,NA,0,NA,NA,"PC",2004,9,20,264
+"529","Triple Play 2000",1999-02-28,"PS","EA Sports","Treyarch",1.43,0.79,0.54,NA,0.09,NA,NA,"PlayStation",1999,2,28,59
+"530","Triple Play 2000",1999-03-22,"N64","EA Sports","Treyarch",0.28,0.27,0.01,NA,0,NA,NA,"Other",1999,3,22,81
+"531","Triple Play 2001",2000-03-14,"PS","EA Sports","Treyarch",1.33,0.74,0.5,NA,0.09,NA,NA,"PlayStation",2000,3,14,74
+"532","Triple Play 2002",2002-03-11,"PS2","EA Sports","Pandemic Studios",0.87,0.43,0.33,NA,0.11,NA,NA,"PlayStation",2002,3,11,70
+"533","Triple Play 2002",2002-03-18,"XB","EA Sports","Pandemic Studios",0.25,0.19,0.05,NA,0.01,NA,NA,"Xbox",2002,3,18,77
+"534","Triple Play 98",1997-04-30,"PS","EA Sports","EA Sports",1.1,0.61,0.42,NA,0.07,NA,NA,"PlayStation",1997,4,30,120
+"535","Triple Play 99",1998-02-28,"PS","EA Sports","Treyarch",1.46,0.81,0.55,NA,0.1,NA,NA,"PlayStation",1998,2,28,59
+"536","UEFA Champions League 2006-2007",2007-03-20,"X360","EA Sports","EA Canada",0.05,0.04,0.01,NA,0,NA,NA,"Xbox",2007,3,20,79
+"537","UEFA Champions League 2006-2007",2007-03-20,"PSP","EA Sports","EA Canada",0.01,0.01,0,NA,0,NA,NA,"PlayStation",2007,3,20,79
+"538","UEFA Euro 2004: Portugal",2004-05-04,"PS2","EA Sports","EA Canada",0.14,0.07,0.05,NA,0.02,NA,NA,"PlayStation",2004,5,4,125
+"539","UEFA Euro 2004: Portugal",2004-05-04,"XB","EA Sports","EA Canada",0.05,0.04,0.01,NA,0,NA,NA,"Xbox",2004,5,4,125
+"540","World Cup 98",1998-05-18,"N64","EA Sports","EA Canada",0.58,0.14,0.4,NA,0.04,NA,NA,"Other",1998,5,18,138
