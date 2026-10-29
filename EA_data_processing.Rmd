@@ -21,6 +21,7 @@ When you click the **Knit** button a document will be generated that includes bo
 data <- read.csv("C:/Users/grady/OneDrive/Desktop/EA Games proj/vgchartz.csv/vgchartz.csv", 
                  header = TRUE, 
                  stringsAsFactors = FALSE)
+
 ```
 
 
@@ -34,35 +35,58 @@ EA_games_cleaned <- EA_games |>
   drop_na(total) |> 
   select(-shipped, -vgc) |> 
   arrange(name)
- EA_games_cleaned
 
-#Games Combined to remove platform seperation
-platform_merged <- EA_games_cleaned |> 
+EA_games_cleaned$platform <- as.factor(EA_games_cleaned$platform)
+ EA_games_cleaned
+```
+
+
+```{R}
+EA_games_cleaned <- EA_games_cleaned |>
+  mutate(
+    # Create a new column with the grouped names
+    platform_grouped = case_when(
+      str_detect(tolower(platform), "ps") ~ "PlayStation",
+      str_detect(tolower(platform), "x") ~ "Xbox",
+      str_detect(tolower(platform), "pc") ~ "PC",
+      TRUE ~ "Other" # A catch-all for Nintendo, Sega, etc.
+    ),
+    # Now convert the cleaned column into a factor
+    platform_grouped = as.factor(platform_grouped)
+  ) 
+
+EA_games_cleaned$developer <- as.factor(EA_games_cleaned$developer)
+EA_games_cleaned$date <- as.Date(EA_games_cleaned$date)
+
+EA_games_cleaned <- EA_games_cleaned |>
+  mutate(
+    year = year(date),
+    month = month(date),
+    day = day(date),
+    day_of_year = yday(date)
+  ) 
+  
+  
+```
+
+```{R}
+EA_sports <- EA_games_cleaned |> 
+  filter(publisher == "EA Sports")
+
+sports_merged <- EA_sports |> 
   group_by(name) |> 
   summarise(
     release_date = first(date),
+  
     across(where(is.numeric), \(x) sum(x, na.rm = TRUE)),
   )
-  
-platform_merged
-```
 
-```{r}
-battlefield <- platform_merged[22:32, ] |> 
-  arrange(release_date)
-
-battlefield
-```
-
-
-```{r}
-fifa <- platform_merged[121:160, ] |> 
-  filter(total != 0) |> 
-  arrange(release_date) 
-
-fifa
+write.csv(sports_merged, "EA_sports_merged.csv")
+write.csv(EA_sports, "EA_sports_only.csv")
 
 ```
+
+
 
 ```{r}
 save(data, file = "EA_games_cleaned")
